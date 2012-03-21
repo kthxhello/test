@@ -1,0 +1,195 @@
+//**********************************************************
+// Language File for TYPSoft FTP Server
+// For Version : 0.99.9
+// Language    : Hungarian
+// Author      : Tamas Balint
+//             : Kárpáti Péter
+// Home Page   : 
+//             : www.karaokeklub.hu
+// E-Mail      : 
+//             : karpatipeter@vnet.hu
+// Last Modify : November 19, 2002
+//**********************************************************
+
+[LANGFILE]
+sAbort          = Kérlek, válassz felhasználót!
+sAbortUser      = Átvitel megszakítása
+sAbout          = Névjegy
+sAccessDirInv   = A kért könyvtár nem létezik
+sAdd            = Hozzáadás
+sAuthFail       = Sikertelen bejelentkezés! Felhasználó: %s IP: %s
+sAuthFailHD     = Home könyvtár nem található! Felhasználó: %s
+sAuthFailP      = Rossz jelszó! Felhasználó: %s IP: %s
+sBanIP          = IP tiltása
+sBrowse         = Tallózás
+sCancel         = Mégse
+sChangeUser     = Felhasználónév változtatása
+sCheckUpdate    = Újabb verzió keresése
+sClear          = A fõablakban lévõ információk törlése
+sClose          = Bezárás
+sConnect        = Kapcsolati idõ:
+sConnected      = Felhasználó %s csatlakozva.
+sConnectTo      = Csatlakozás %s. Felhasználónév kérése.
+sCopyUser       = Felhasználót másol
+sDate           = Dátum megjelenítése a naplófájlban
+sDel            = Törlés
+sDelUser        = Felhasználót töröl
+sDeny           = Nem látható
+sDir            = Könyvtárakkal kapcsolatos engedélyek
+sDirAcc         = Hozzáférési jogok beállítása könyvtáranként
+sDisable        = Felhasználó letiltása
+sDisableExitMsg = Kilépéskor ne kérjen megerõsítést
+sDisableNOOP    = NOOP kikapcsolása
+sDisconnect     = Felhasználó %s, %s lekapcsolódott
+sDisconnectUser = Felhasználó leválasztása
+sDown           = Letöltés
+sEdit           = Szerkesztés
+sEmail          = E-mail
+sEncrypt        = Kódolt
+sEnterMessage   = Üdvözlõ fájl neve:
+sExitMessage    = Elköszönõ fájl neve:
+sFDel           = %S: file törlése: %S
+sFile           = Fájl
+sFiles          = Fájlokkal kapcsolatos engedélyek
+sFontInfo       = Betû infó:
+sFontSelect     = Betû
+sFMake          = %S: Könyvtár létrehozása: %S
+sFTP            = TYPSoft FTP Szerver
+sFTPPort        = FTP Port:
+sHelp           = Segítség
+sHome           = Gyökérkönyvtár
+sHomeDirInv     = A gyökérkönyvtár nem létezik
+sHostname       = Kiszolgáló:
+sIdleTime       = Inaktív idõ:
+sIDNum          = Azonosító
+sInvalidCarac   = A felhasználónév nem tartalmazhat ilyen karaktereket: \/:|*?"<>
+sIP             = IP cím
+sIPAccess       = IP beállítások
+sIPAccept       = Engedélyez
+sIPDeny         = Tilt
+sIPList         = Számítógépem IP címei
+sIPListRes      = IP lista engedélyezéshez / tiltáshoz
+sIPNote         = Kattints a kiválasztott IP-re,          s az a vágólapra másolódik
+sKick           = Kérlek, válassz felhasználót!
+sLangue         = Nyelv
+sLink           = Virtuális könyvtár
+sList           = Felhasználók listája
+sLog            = Naplófájl automatikus mentése
+sMain           = Fõablak
+sMake           = Új létrehozása
+sMaxUser1       = Felhasználók max.
+sMaxUser2       = száma felhasználónevenként:
+sMaxUserIP1     = Egyidejû bejelentkezések max. száma
+sMaxUserIP2     = felhasználónként / IP címenként:
+sMaxSpeed       = Maximális letöltési sebesség (K/S)
+sMnuFTP         = FTP beállítások
+sModify         = Módosítás
+sNameLnk        = A virtuális könyvtár neve legyen:
+sNew            = Új
+sNewUser        = Új felhasználó
+sNewVer         = Új verzió
+sNHome          = Mi a gyökérkönyvtár?
+sNLogin         = Mi az új felhasználónév?
+sNoFile         = Nincs fájl
+sNoHelp         = A segítség nem elérhetõ
+sNoNewVer       = Nincs új verzió
+sNoPort         = A port már használatban van. Válassz másikat!
+sNoRep          = Válassz egy könyvtárat a jogosultság megadásához!
+sNoSelChemin    = Kérlek, válassz egy könyvtárat!
+sNoTLim         = 0 = Nincs korlátozás
+sNoTrans        = Inaktív
+sNoTStart       = A szerver nem indult el.
+sNoULim         = 0 = Nincs korlátozás
+sNoUser         = Nincs felhasználó
+sNPass          = Mi a jelszó?
+sOnlineHelp     = Online segítség
+sPass           = Jelszó
+sPasteIP        = IP másolása a vágólapra
+sPathAlreadInc  = Az elérési út már szerepel
+sPort           = FTP beállítások
+sQuit           = Kilépés
+sRbBuild        = Felépít
+sRbNone         = Semmi
+sRemove         = Meglévõ törlése
+sRenDir         = Könyvtár átnevezése
+sRenFile        = Átnevezhetõ a könyvtár és a fájlok
+sRenUser        = Felhasználót átnevez
+sRepDel         = %S: Könyvtár törölve: %S
+sRepNow         = %s: Aktuális könyvtár: %s
+sRestart        = A változtatás elfogadásához a szerver leállítása és újraindítása szükséges.
+sRetrFail       = %S: sikertelen letöltés %S
+sRetrOK         = %S: sikeres letöltés: %S
+sRetrRes        = %S: letöltés, folytatás: %S sebesség: %S byte
+sRetrStart      = %S: letöltés elkezdése: %S
+sRFile          = %S: átnevezése: %s
+sRUser          = %S átnevezése erre: 
+sRun            = FTP szerver indítása belépéskor
+sSave           = Mentés
+sSessDown       = Jelenlegi letöltés:
+sSessUp         = Jelenlegi feltöltés:
+sSerStart       = Szerver elindítva.
+sSerStop        = Szerver leállítva.
+sServer         = &Szerver
+sSetup          = Beállítások
+sSetupFTP       = FTP beállítások
+sSetupUser      = Felhasználói beállítások
+sShowCommand    = A fõablakban minden parancs megjelenítése
+sShowHelp       = Online segítség a http://www.typsoft.com oldalon érhetõ el
+sShutDown       = Biztosan be akarod zárni a TYPSoft FTP Szervert?
+sSrvShutDown    = A szerver leállítása
+sStart          = &Indítás
+sStop           = Leállí&tás
+sStorFail       = %S: sikertelen feltöltés %s
+sStorOK         = %s: sikeres feltöltés: %s
+sStorStart      = %S: feltöltés elkezdõdött: %S
+sStorRes        = %S: Feltöltés : %S sebesség: %S byte
+sSubDir         = Alkönyvtárakra is igaz
+sSysTray        = &Tálcára helyez
+sTempRest       = Hátralévõ idõ:
+sTimeOutDisc    = Kapcsolat idõkorlátja:
+sTimeoutLimit   = Idõkorlát: (perc) [Max: 600 perc]
+sTooManyUser    = Túl sok bejelentkezés ettõl a felhasználótól: %S IP: %S
+sTotalDownload  = Összes letöltés:
+sTotalUpload    = Összes feltöltés:
+sTransfert      = Átviteli idõ:
+sTray           = Indítás a tálcán
+sUMain          = Felhasználói információk
+sUP             = Feltöltés
+sUser           = Felhasználók listája
+sUsername       = Felhasználónév
+sUSetup         = Felhasználói beállítások
+sVersion        = TYPSoft FTP Szerver %s verzió
+sVersion2       = Készítette: Marc Bergeron - TYPSoft
+sVirtual        = Virtuális könyvtárak megjelenítése
+sVirtual2       = ("/C:/Directory/" = "/")
+sWeb            = Honlap:
+
+Status          = Státus:
+
+sCount          = Számláló bekapcsolva
+sCredit         = Kvóta
+
+sCount1         = Fájlok számolása bejelentkezésenként
+sCount2         = Byte-ok számolása bejelentkezésenként
+sCount3         = Fájlok számolása minden bejelentkezésben
+sCount4         = Byte-ok számolása minden bejelentkezésben
+
+sfrmColor       = Színbeállítások
+sSepTag         = Elválaszó színe
+sTextTag        = Szöveg színe
+sIDTag          = Felhasználói azonosító színe
+sClientTag      = Felhasználónév színe
+sIPTag          = IP színe
+sDateTag        = Esemény idejének színe
+sTimeTag        = Egyéb idõ színe
+sMiscTag        = Információs szöveg színe
+sFileTag        = Fájl és könyvtár színe
+sBackTag        = Háttér színe
+
+sSound          = Hangbeállítások
+sSndConnect     = Hang a bejelentkezésnél
+sSndDisconnect  = Hang a kijelentkezésnél
+sSndDownStart   = Hang a letöltés elkezdésénél
+sSndDownEnd     = Hang a letöltés befejezésénél
+sSndUploadStart = Hang a feltöltés elkezdésénél
+sSndUploadEnd   = Hang a feltöltés befejezésénél

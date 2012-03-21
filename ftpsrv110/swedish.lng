@@ -1,0 +1,191 @@
+//**********************************************************
+// Language File for TYPSoft FTP Server
+// For Version : 0.99.9
+// Language    : Swedish 
+// Author      : Kjell Harnesk
+// Home Page   : http://harnesk.d2g.nu
+// E-Mail      : kjell@harnesk.d2g.nu
+// Last Modify : November28, 2002
+//**********************************************************
+
+[LANGFILE]
+sAbort          = Välj en användare
+sAbortUser      = Avbryt Överföring
+sAbout          = Om...
+sAccessDirInv   = Katalog finns inte
+sAdd            = Lägg till
+sAuthFail       = Autenticering misslyckades: Användare: %s IP: %s
+sAuthFailHD     = Hemkatalog ej funnen: Användare: %s 
+sAuthFailP      = Felaktigt lösenord: Användare: %s IP: %s
+sBanIP          = Bannlys IP
+sBrowse         = Bläddra
+sChangeUser     = Byt namn för:
+sCheckUpdate    = Kontrollera om uppdatering finns
+sClear          = Töm historia
+sClose          = Stäng
+sConnect        = Tid ansluten:
+sConnected      = Användare %s anslöt
+sConnectTo      = Ansluter %s. Begär användarnamn.
+sCopyUser       = Kopiera användare
+sDate           = Lägg till datum till logg.
+sDel            = Radera
+sDelUser        = Radera användare
+sDeny           = Ingen åtkomst
+sDir            = Katalog
+sDirAcc         = Katalogåtkomst
+sDisable        = Inaktivera användarkonto
+sDisableExitMsg = Inget meddelande vid nedkoppling
+sDisableNOOP    = Inaktivera NOOP
+sDisconnect     = Användare %s, %s kopplade ner
+sDisconnectUser = Koppla ner användare
+sDown           = Nedladning
+sEdit           = Editera
+sEmail          = E-post
+sEncrypt        = Krypteringsmetod
+sEnterMessage   = Fil för välkomstmeddelande
+sExitMessage    = Fil för nedkopplingsmeddelande
+sFDel           = %s: Raderade fil: %s
+sFile           = &Fil
+sFiles          = Filer
+sFontInfo       = Font Info
+sFontSelect     = Välj font
+sFMake          = %S: Skapa katalog: %S
+sFTP            = TYPSoft FTP Server
+sFTPPort        = FTP Port:
+sHelp           = &Hjälp
+sHome           = Root-katalog
+sHomeDirInv     = Hemkatalogen finns inte
+sHostname       = Värd
+sIdleTime       = Inaktiv tid:
+sIDNum          = ID
+sInvalidCarac   = Login kan inte ha dessa tecken: \/:|*?"<>
+sIP             = IP
+sIPAccess       = IP Restriktioner
+sIPAccept       = Tillåt
+sIPDeny         = Förvägra
+sIPList         = Lista över IP för din dator
+sIPListRes      = Lista över IP att Tillåta/Blockera
+sIPNote         = Klicka på en IP för att kopiera till clipboard.
+sKick           = Välj en användare
+sLangue         = Språk
+sLink           = Virtuell länk
+sList           = Lista över användare
+sLog            = Spara logg automatiskt.
+sMain           = Huvudfönstret
+sMake           = Skapa
+sMaxUser1       = Max. användare
+sMaxUser2       = per konto:
+sMaxUserIP1     = Max. samtidiga användare
+sMaxUserIP2     = per konto/per IP:
+sMaxSpeed       = Max. nedladdningshastighet (i K/S)
+sMnuFTP         = FTP
+sModify         = Modifiera
+sNameLnk        = Länkens namn i katalogen.
+sNew            = Ny
+sNewUser        = Ny användare
+sNewVer         = Ny version
+sNHome          = Vilken root-katalog?
+sNLogin         = Vilket användarID?
+sNoFile         = Ingen fil
+sNoHelp         = Hjälp är inte tillgängligt.
+sNoNewVer       = Ingen ny version
+sNoPort         = Porten används redan. Välj en annan.
+sNoRep          = Du måste ange en katalog för rättigheter.
+sNoSelChemin    = Välj en katalog
+sNoTLim         = 0 = Ingen tidsbegränsning
+sNoTrans        = Inaktivitet
+sNoTStart       = Servern är inte startad.
+sNoULim         = 0 = Ingen begränsning
+sNoUser         = Inga användare
+sNPass          = Ange lösenord
+sOnlineHelp     = Online-hjälp
+sPass           = Lösenord
+sPasteIP        = Kopiera till clipboard
+sPathAlreadInc  = Den sökvägen är redan tillagd
+sPort           = FTP inställningar
+sQuit           = &Avsluta
+sRbBuild        = Build in
+sRbNone         = Ingen
+sRemove         = Ta bort
+sRenDir         = Döpa om kataloger
+sRenFile        = Döpa om filer och kataloger
+sRenUser        = Döp om användaren
+sRepDel         = %S: Katalog raderad: %S
+sRepNow         = %s: Aktuell katalog: %s
+sRestart        = För att verkställa ändring måste servern startas om.
+sRetrFail       = %S: Nedladdning av %s misslyckades
+sRetrOK         = %S: Nedladdning av %s OK
+sRetrRes        = %S: Nedladdning av: %S återupptogs vid: %S bytes
+sRetrStart      = %S: Startar nedladdning av %S
+sRFile          = %S: Namnbyte: %s
+sRUser          = Döp om %S till :
+sRun            = Starta FTP Server då Windows startar.
+sSave           = Spara
+sSessDown       = Sessionen nedladdat:
+sSessUp         = Sessionen uppladdat:
+sSerStart       = Servern startades
+sSerStop        = Servern stoppades
+sServer         = &Server
+sSetup          = Inställningar
+sSetupFTP       = FTP-inställningar
+sSetupUser      = Användare
+sShowCommand    = Visa alla användarkommandon i huvudfönstret.
+sShowHelp       = Online-hjälp finns på http://www.typsoft.com
+sShutDown       = Är det säkert att du vill stänga TYPSoft FTP-server?
+sSrvShutDown    = Stängning av servern
+sStart          = &Start
+sStop           = S&topp
+sStorFail       = %S: Uppladdning av %s misslyckades
+sStorOK         = %s: Fil %s uppladdad
+sStorStart      = %S: Startar uppladdning av %S
+sStorRes        = %S: Uppladdning av %S återupptogs vid %S bytes
+sSubDir         = Inkl. underkataloger
+sSysTray        = Sys&Tray
+sTempRest       = Tid kvar:
+sTimeOutDisc    = Time-Out för:
+sTimeoutLimit   = Time-Out: (Min) [Max: 600 min]
+sTooManyUser    = För många användare anslutna med detta ID: %S IP: %S
+sTotalDownload  = Totalt nedladdat:
+sTotalUpload    = Totalt uppladdat:
+sTransfert      = Överföringstid:
+sTray           = Starta i Systray.
+sUMain          = Användarinfo
+sUP             = Uppladdning
+sUser           = Användare
+sUsername       = AnvändarID
+sUSetup         = Användare
+sVersion        = TYPSoft FTP Server Version %s
+sVersion2       = Skriven av Marc Bergeron - TYPSoft
+sVirtual        = Virtuell katalog visas som
+sVirtual2       = ("/C:/Katalog/" = "/")
+sWeb            = Hemsida:
+
+Status          = Status:
+
+sCount          = Count On
+sCredit         = Credit
+
+sCount1         = Antal filer per session
+sCount2         = Antal byte per session
+sCount3         = Antal filer alla sessioner
+sCount4         = Antal byte alla Sessioner
+
+sfrmColor       = Färgdefinitioner
+sSepTag         = Klamrar
+sTextTag        = Textfärg
+sIDTag          = AnvändarID
+sClientTag      = Användarnamn
+sIPTag          = IP-adress
+sDateTag        = Händelsetid
+sTimeTag        = Annan tid
+sMiscTag        = Diverse
+sFileTag        = Filer och kataloger
+sBackTag        = Bakgrundsfärg
+
+sSound          = Ljud
+sSndConnect     = Ljud vid anslutning
+sSndDisconnect  = Ljud vid nedkoppling
+sSndDownStart   = Ljud då nedladdning startas
+sSndDownEnd     = Ljud då nedladdning avslutas
+sSndUploadStart = Ljud då uppladdning startas
+sSndUploadEnd   = Ljud då uppladdning avslutas

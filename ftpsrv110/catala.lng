@@ -1,0 +1,194 @@
+//**********************************************************
+// Language File for TYPSoft FTP Server
+// For Version 0.99.16
+// Language  : Catala
+// Author    : Arnau Llovet
+// Home Page : 
+// E-Mail    : arllovet@yahoo.com
+// Last Modif : December 23, 2002
+//**********************************************************
+
+[LANGFILE]
+sAbort          = Selecciona un usuari
+sAbortUser      = Cancel·lar Transferència
+sAbout          = Sobre
+sAccessDirInv   = El directori d'Accés no existeix
+sAdd            = Afegir
+sAuthFail       = Identificació Fallida: Usuari %S [%S]
+sAuthFailHD     = Directori principal no trobat : Usuari %S
+sAuthFailP      = Password Incorrecte: Usuari %S [%S]
+sBanIP          = Prohibir aquesta direcció IP
+sBrowse         = Buscar
+sChangeUser     = Canviar Nom d'Usuari per :
+sCheckUpdate    = Comprovar Actualitzacions
+sClear          = Neteja Registre
+sClose          = Tancar
+sConnect        = Temps Connectat
+sConnected      = Usuari %s [%S] Connectat
+sConnectTo      = Connectat a %S. Obtenint nom d'usuari.
+sCopyUser	    = Copiar Usuari
+sDate           = Afegir data al Registre.
+sDel            = Borrar
+sDelUser        = Borrar Usuari
+sDeny           = Sense Accés
+sDir            = Directoris
+sDirAcc         = Accés a Directoris
+sDisable        = Desactivar Conta d'Usuari
+sDisableExitMsg = Desactivar Missatge en Sortir
+sDisableNOOP    = Desactivar NOOP
+sDisconnect     = Client %S [%S] Desconnectat
+sDisconnectUser = Desconnectar Usuari
+sDown           = Descarregar
+sEdit           = Editar
+sEmail          = Email
+sEncrypt        = Mètode d'Encriptació
+sEnterMessage   = Arxiu pel Missatge de Benvinguda
+sExitMessage    = Arxiu pel Missatge de Despedida
+sFDel           = %S : Borrar Arxiu : %S
+sFile           = &Arxiu
+sFiles          = Arxius
+sFontInfo	    = Informació del tipus de lletra
+sFontName       = Nom del tipus de lletra
+sFontSelect	    = Font
+sFontSize       = Tamany del tipus de lletra
+sFMake          = %S : Crear Directori : %S
+sFTP            = TYPSoft FTP Server
+sFTPPort        = Port FTP :
+sHelp           = A&juda
+sHideVersion    = Substituir el Banner FTP per la teva IP
+sHome           = Directori arrel
+sHomeDirInv	    = El Directori principal no existeix
+sHostname       = Servidor
+sIdleTime       = Temps Inactiu:
+sIDNum          = ID
+sInvalidCarac   = El Login no pot contenir aquest caràcter: \/:|*?"<>
+sIP             = IP
+sIPAccess       = IP's Restringides
+sIPAccept       = Permetre
+sIPDeny         = Denegar
+sIPList         = Llista d'IP's del teu Ordenador
+sIPListRes      = Llista d'IP's per Permetre/Bloquejar
+sIPNote         = Clicka sobre l'IP i serà copiada al portapapers.
+sKick           = Selecciona un usuari
+sLangue         = Idioma
+sLink           = Enllaç Virtual
+sList           = Llista d'Usuaris
+sLog            = Salvar Registre Automaticament.
+sMain           = Principal
+sMake           = Crear
+sMaxUser1       = Connexions Max.
+sMaxUser2       = per aquest usuari :
+sMaxUserIP1     = Usuaris Simultanis Max.
+sMaxUserIP2     = per IP :
+sMaxSpeed       = Max. Velocitat de Descàrrega (en K/S)
+sMnuFTP         = FTP
+sModify         = Modificar
+sNameLnk        = Nom de l'enllaç al directori.
+sNew            = Nou
+sNewUser        = Nou Usuari
+sNewVer         = Nova Versió
+sNHome          = Quin és el Directori Arrel ?
+sNLogin         = Quin és el nou login ?
+sNoFile         = Cap Arxiu
+sNoHelp         = Ajuda no disponible encara.
+sNoNewVer       = No hi ha cap Nova Versió
+sNoPort         = El Port ja està en us. Escolleix-ne un altre.
+sNoRep          = Has de triar un Directori on posar un dret sobre ell.
+sNoSelChemin    = Tria un directori.
+sNoTLim         = 0 = Sense Temps Límit
+sNoTrans        = Inactiu
+sNoTStart       = Servidor no iniciat.
+sNoULim         = 0 = Sense Límit d'Usuaris
+sNoUser         = Sense Usuaris
+sNPass          = Quin és el password?
+sOnlineHelp     = Ajuda Online
+sPass           = Password
+sPasteIP        = Enganxa l'IP al Portapapers
+sPathAlreadInc  = La ruta que intentes afegir ja hi es.
+sPort           = Configuració FTP
+sQuit           = E&xit
+sRbBuild        = Construir
+sRbNone         = Cap
+sRemove         = Borrar
+sRenDir         = Renombrar directoris
+sRenFile        = Renombrar arxius i directoris
+sRenUser        = Renombrar Usuari
+sRepDel         = %S : Directori Borrat : %S
+sRepNow         = %S : Directori Actual : %s
+sRestart        = Per aplicar aquest canvi has de reiniciar el servidor.
+sRetrFail       = %S : Descàrrega Fallida de %S
+sRetrOK         = %S : Arxiu Descarregat : %S
+sRetrRes        = %S : Continuar Descàrrega de : %S At: %S bytes
+sRetrStart      = %S : Començar Descàrrega de %S
+sRFile          = %S : Renombrar Arxiu : %s
+sRUser          = Renombrar %S a :
+sRun            = Executar Servidor FTP en iniciar Windows.
+sSave           = Salvar
+sSessDown       = Sessió Descarregat:
+sSessUp         = Sessió Pujat:
+sSerStart       = Servidor Iniciat
+sSerStop        = Servidor Parat
+sServer         = &Servidor
+sSetup          = Configuració
+sSetupFTP       = Configuració FTP
+sSetupUser      = Configuració Usuaris
+sShowCommand	= Mostrar totes les comandes d'usuari a la finestra principal.
+sShowHelp       = Ves a http://www.typsoft.com per l'Ajuda Online
+sShutDown       = Estàs segur que vols tancar el servidor TYPSoft FTP?
+sSrvShutDown	= Parar el Servidor
+sStart          = &Iniciar
+sStop           = Pa&rar
+sStorFail       = %S : Pujada Fallida de %S
+sStorOK         = %s : Arxiu Pujat : %S
+sStorStart      = %S : Començar Pujada de %S
+sStorRes        = %S : Continuar Pujada de : %S en : %S bytes
+sSubDir         = Incloure Subdirectoris
+sSysTray        = Icona de Sis&tema
+sTempRest       = Temps restant:
+sTimeOutDisc    = Connecció fora de temps per:
+sTimeoutLimit   = Temps límit inactiu: (Min) [Max: 600 min]
+sTooManyUser    = Massa Usuaris Connectats amb aquest Login : %S [%S]
+sTotalDownload  = Total Descarregat :
+sTotalUpload    = Total Pujat :
+sTransfert      = Temps de Transferència :
+sTray           = Iniciar com a Icona de Sistema.
+sUMain          = Informació d'Usuaris
+sUP             = Pujar
+sUser           = Usuaris
+sUsername       = Nom d'Usuari
+sUSetup         = Configuració d'Usuari
+sVersion        = TYPSoft FTP Server Versió %s
+sVersion2       = Escrit per Marc Bergeron - TYPSoft
+sVirtual        = Mostrar Directori Virtual
+sVirtual2       = ("/C:/Directori/" = "/")
+sWeb            = Home Page :
+
+Status          = Estat:
+
+sCount          = Col·labora
+sCredit         = Crèdits
+
+sCount1         = Comptar arxius per Sessió
+sCount2         = Comptar bytes per Sessió
+sCount3         = Comptar files en totes les Sessions
+sCount4         = Comptar bytes en totes les Sessions
+
+sfrmColor       = Definició de Color
+sSepTag         = Separador
+sTextTag        = Text
+sIDTag          = ID Usuari
+sClientTag      = Nom d'Usuari
+sIPTag          = IP
+sDateTag        = Temps d'esdeveniment
+sTimeTag        = Altres Temps
+sMiscTag        = Text Miscel·lani
+sFileTag        = Arxiu i Directori
+sBackTag        = Text de fons
+
+sSound          = Sons d'Alerta
+sSndConnect     = Quan un usuari es connecta
+sSndDisconnect  = Quan un usuari es desconnecta
+sSndDownStart   = Quan una Descàrrega comença
+sSndDownEnd     = Quan una Descàrrega acaba
+sSndUploadStart = Quan una Pujada comença
+sSndUploadEnd   = Quan una Pujada acaba

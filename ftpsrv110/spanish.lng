@@ -1,0 +1,155 @@
+//**********************************************************
+// Language File for TYPSoft FTP Server
+// For Version : 0.99
+// Language    : Spanish
+// Author      : Trinquete
+// Home Page   : http://trinquete.da.ru
+// E-Mail      : viatrinquete@hotmail.com
+// Last Modify : June 10, 2002
+//**********************************************************
+
+[LANGFILE]
+sAbort          = Selecciona un Usuario
+sAbortUser      = Cancelar Transferencia
+sAbout          = Acerca de
+sAdd            = Agregar
+sAuthFail       = Identificación Fallida: Usuario %s IP: %s
+sAuthFailHD     = Directorio Principal no Encontrado: Usuario: %s
+sAuthFailP      = Password Incorrecta: Usuario %s IP: %s
+sBanIP          = IP Prohibida
+sBrowse         = Buscar
+sChangeUser     = Cambiar Nombre de Usuario por:
+sCheckUpdate    = Comprobar Actualizaciones
+sClear          = Limpiar Registros
+sClose          = Cerrar
+sConnect        = Tiempo Conectado
+sConnected      = Usuario %s Conectado
+sConnectTo      = Conectando %s. Obteniendo Nombre de Usuario.
+sDate           = Agregar fecha al Log.
+sDel            = Borrar
+sDelUser        = Borrar Usuario
+sDeny           = Sin Acceso
+sDir            = Directorio
+sDirAcc         = Acceso a Directorios
+sDisable        = Desactivar Cuenta de Usuario
+sDisableExitMsg = Desactivar Mensaje a la Salida
+sDisableNOOP    = Desactivar NOOP
+sDisconnect     = Cliente %s, %s Desconectado
+sDisconnectUser = Desconectar Usuario
+sDown           = Bajar
+sEdit           = Editar
+sEncrypt        = Método Encriptación
+sEnterMessage   = Archivo para Mensaje de Bienvenida
+sExitMessage    = Archivo para Mensaje de Despedida
+sFDel           = %S: Borrar Archivo: %S
+sFile           = Archivo
+sFiles          = Archivos
+sFMake          = %S: Crear Directorio: %S
+sFTP            = TYPSoft FTP Server
+sFTPPort        = Puerto FTP:
+sHelp           = Ayuda
+sHome           = Directorio Raiz
+sHost           = Servidor
+sIdleTime       = Tiempo Inactivo:
+sIDNum          = ID
+sInvalidCarac   = El Login no Puede Conterner los Caracteres: \/:|*?"<>|
+sIP             = IP
+sIPAccess       = IP´s Prohibidas
+sIPList         = Lista de IP´s con Acceso Prohibido
+sIPNote         = Haz Click en una IP y se copiará al portapapeles.
+sKick           = Selecciona un Usuario
+sLangue         = Idioma
+sLink           = Link Virtual
+sList           = Lista de Usuarios
+sLog            = Guardar Log Automáticamente.
+sMain           = Principal
+sMake           = Crear
+sMaxUser1       = Usuarios Máximos
+sMaxUser2       = por cuenta:
+sMaxUserIP1     = Usuarios Máximos Simultáneos
+sMaxUserIP2     = por cuenta/por IP:
+sMnuFTP         = FTP
+sModify         = Modificar
+sName           = Publicidad FTP Ejem.:'Servidor FTP de TYPSoft'
+sNameLnk        = Nombre del Link en el Direcctorio.
+sNew            = Nuevo
+sNewUser        = Nuevo Usuario
+sNewVer         = Nueva Versión
+sNHome          = Cual es el Directorio Raiz?
+sNLogin         = Cual es el Nuevo Login?
+sNoFile         = Sin Archivo
+sNoHelp         = La Ayuda no está Disponible.
+sNoNewVer       = No hay Nueva Versión.
+sNoPort         = El puerto está siendo usado. Selecciona otro.
+sNoRep          = Selecciona un directorio para poner un derecho sobre el.
+sNoSelChemin    = Selecciona un directorio.
+sNoTLim         = 0 = Sin Límite de Tiempo
+sNoTrans        = Inactivo
+sNoTStart       = Servidor NO arrancado.
+sNoULim         = 0 = Sin Límite de Usuarios
+sNoUser         = Sin Usuarios
+sNPass          = Cual es el password?
+sOnlineHelp     = Ayuda Online
+sPass           = Password
+sPasteIP        = Pegar IP en Portapapeles
+sPort           = Configuración del FTP
+sQuit           = Salir
+sRbBuild        = Construir
+sRbNone         = Nada
+sRemove         = Quitar
+sRenDir         = Renombrar Directorios
+sRenFile        = Renombrar Directorios y Archivos
+sRepDel         = %S: Directorio Borrado: %S
+sRepNow         = %s: Directorio Actual: %s
+sRestart        = Para aplicar este cambio, debes Parar e Iniciar el Servidor.
+sRetrFail       = %S: Descarga Fallida de %S
+sRetrOK         = %S: Archivo Descargado Corectamente: %S
+sRetrRes        = %S: Reanudando Descarga de: %S At: %S bytes
+sRetrStart      = %S: Dercarga Iniciada de %S
+sRFile          = %S: Renombra Archivo: %s
+sRun            = Iniciar el Servidor FTP al Arrancar Windows.
+sSave           = Guardar
+sSerStart       = Servidor Arrancado
+sSerStop        = Servidor Detenido
+sServer         = Servidor
+sSetup          = Configuración
+sSetupFTP       = Configuración FTP
+sSetupUser      = Configuración Usuarios
+sShowHelp       = visita http://www.typsoft.com para ayuda Online
+sShutDown       = Estás seguro de que quieres CERRAR el Servidor FTP TYPSoft ?
+sStart          = Iniciar
+sStop           = Parar
+sStorFail       = %S: Fallo de Subida de %s
+sStorOK         = %s: Archivo Subido: %s
+sStorStart      = %S: Iniciando Subida de %S
+sStorRes        = %S: Reanudando Subida de: %S At: %S bytes
+sSubDir         = Incluir Sub Directorios
+sSysTray        = Icono de Sistema
+sTempRest       = Temporales Restantes:
+sTimeOutDisc    = Conexión Fuera de Tiempo For:
+sTimeoutLimit   = Fuera de Tiempo: (Min) [Max: 600 min]
+sTooManyUser    = Demasiados Usuarios Conectados con este Login: %S IP: %S
+sTotalDownload  = Total Bajado:
+sTotalUpload    = Total Subido:
+sTransfert      = Tiempo de Transferencia:
+sTray           = Iniciar en Icono de Sistema.
+sUMain          = Información de Usuarios
+sUP             = Subir
+sUser           = Usuarios
+sUsername       = Nombre de Usuario
+sUSetup         = Configuración de Usuario
+sVersion        = Servidor FTP TYPSoft Versión %s
+sVersion2       = Escrito por Marc Bergeron - TYPSoft - Traducido por Trinquete
+sVirtual        = Mostrar Directorio Virtual
+sVirtual2       = ("/C:/Directorio/" = "/")
+sWeb            = Home Page:
+
+Status          = Estado:
+
+sCount          = Colabora
+sCredit         = Créditos
+
+sCount1         = Contar Archivos por Sesión
+sCount2         = Contar bytes por Sesión
+sCount3         = Contar Archivos en Todas las Sesiones
+sCount4         = Contar bytes en Todas las Sesiones

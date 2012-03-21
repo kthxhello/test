@@ -1,0 +1,194 @@
+//**********************************************************
+// Language File for TYPSoft FTP Server
+// For Version :  0.99.15
+// Language    :  Italiano
+// Author      :  Roberto Boriotti
+// Home Page   :  
+// E-Mail      :  roberto.boriotti@canon.it
+// Last Modify :  December 18, 2002
+//**********************************************************
+
+[LANGFILE]
+sAbort          = Scegliere un utente
+sAbortUser      = Interrompere trasferimento
+sAbout          = Info su TypSoft FTP Server
+sAccessDirInv   = La cartella di accesso non esiste
+sAdd            = Aggiungi
+sAuthFail       = Utente %S [ %S ] - Autenticazione fallita
+sAuthFailHD     = Utente: %S- Cartella principale non presente
+sAuthFailP      = Utente %S [%S] - Password errata
+sBanIP          = IP vietato
+sBrowse         = Sfoglia
+sChangeUser     = Cambia nome utente per:
+sCheckUpdate    = Controlla aggiornamenti
+sClear          = Cancella cronologia
+sClose          = OK
+sConnect        = Tempo di connessione
+sConnected      = Utente %s [%S] connesso
+sConnectTo      = Connesso a %S. Richiesta nome utente.
+sCopyUser       = Copia utente
+sDate           = Aggiunta data al registro eventi
+sDel            = Elimina
+sDelUser        = Elimina utente
+sDeny           = Accesso negato
+sDir            = Cartella
+sDirAcc         = Accesso alla cartella
+sDisable        = Disabilita account utente
+sDisableExitMsg = Disabilita messaggio chiusura server
+sDisableNOOP    = Disabilita NOOP
+sDisconnect     = Utente %S [%S] disconnesso
+sDisconnectUser = Disconnetti utente
+sDown           = Download
+sEdit           = Modifica
+sEmail          = Email
+sEncrypt        = Metodo di criptazione
+sEnterMessage   = File testo per messaggio di benvenuto
+sExitMessage    = File testo per messaggio di uscita
+sFDel           = %S: File eliminato: %S
+sFile           = &File
+sFiles          = File
+sFontInfo       = Info carattere
+sFontName       = Nome carattere
+sFontSelect     = Carattere
+sFontSize       = Dimensione carattere
+sFMake          = %S: Crea cartella: %S
+sFTP            = Server FTP TYPSoft
+sFTPPort        = Porta FTP:
+sHelp           = &?
+sHideVersion    = Sostituisci banner FTP con il tuo IP
+sHome           = Cartella principale
+sHomeDirInv     = La cartella principale non esiste
+sHostname       = Computer
+sIdleTime       = Tempo inattività:
+sIDNum          = ID
+sInvalidCarac   = Il nome login non può avere questi caratteri: \/:|*?"<>
+sIP             = IP
+sIPAccess       = Restrizione IP
+sIPAccept       = Permesso
+sIPDeny         = Negato
+sIPList         = Lista IP di questo computer
+sIPListRes      = Lista IP da abilitare/disabilitare
+sIPNote         = Fai clic su un IP per copiarlo negli appunti.
+sKick           = Scegli un utente
+sLangue         = Lingua
+sLink           = Colleg. virtuale
+sList           = Lista utenti
+sLog            = Salvataggio automatico registro.
+sMain           = Generale
+sMake           = Crea
+sMaxUser1       = Numero max. connesioni
+sMaxUser2       = per questo utente:
+sMaxUserIP1     = Numero max utenti simultanei
+sMaxUserIP2     = per questo IP:
+sMaxSpeed       = Massima velocità download (in Kb/S)
+sMnuFTP         = Server FTP
+sModify         = Modifica
+sNameLnk        = Nome del collegamento nella cartella.
+sNew            = Nuovo
+sNewUser        = Nuovo utente
+sNewVer         = Nuova versione
+sNHome          = Inserisci la cartella principale
+sNLogin         = Inserisci il nome del nuovo utente
+sNoFile         = Nessun file
+sNoHelp         = Guida non implementata.
+sNoNewVer       = Nessuna nuova versione
+sNoPort         = Porta già in uso. Scegline una libera.
+sNoRep          = Devi selezionare una cartella.
+sNoSelChemin    = Seleziona una cartella
+sNoTLim         = 0 = Nessun limite di tempo
+sNoTrans        = In attesa
+sNoTStart       = Server non avviato.
+sNoULim         = 0 = Nessun limite per l'utente
+sNoUser         = Nessun utente
+sNPass          = Inserisci la password
+sOnlineHelp     = Guida in linea
+sPass           = Password
+sPasteIP        = Incolla IP negli Appunti
+sPathAlreadInc  = Il percorso impostato è già stato aggiunto
+sPort           = Impostazioni FTP
+sQuit           = E&sci
+sRbBuild        = Creato nel
+sRbNone         = Nessuno
+sRemove         = Rimuovi
+sRenDir         = Rinomina cartelle
+sRenFile        = Rinomina file e cartelle
+sRenUser        = Rinomina utente
+sRepDel         = %S: Cartella eliminata: %S
+sRepNow         = %S: Cartella corrente: %S
+sRestart        = Per applicare le modifiche, devi riavviare il server.
+sRetrFail       = %S: Download di %S fallito
+sRetrOK         = %S: File %S scaricato OK
+sRetrRes        = %S: Download, recupero di: %S a: %S byte
+sRetrStart      = %S: Inizio download di %S
+sRFile          = %S: Rinomina file: %s
+sRun            = Avvia server FTP all'avvio di Windows
+sRUser          = Rinomina %S in :
+sSave           = Salva
+sSessDown       = Download nella sessione:
+sSessUp         = Upload nella sessione:
+sSerStart       = Server avviato
+sSerStop        = Server fermato
+sServer         = &Server
+sSetup          = Impostazioni
+sSetupFTP       = Impostazioni FTP
+sSetupUser      = Impostazione utente
+sShowCommand    = Visualizza tutti i comandi nella finestra principale.
+sShowHelp       = Visita il sito http://www.typsoft.com per la guida in linea
+sShutDown       = Sei sicuro di volere chiudere il server FTP TYPSoft?
+sSrvShutDown	= Chiusura del server
+sStart          = &Avvia
+sStop           = F&erma
+sStorFail       = %S: Upload di %S fallito
+sStorOK         = %s: File %S upload nel server
+sStorStart      = %S: Inizio upload di %S
+sStorRes        = %S: Upload, recupero di: %S a: %S byte
+sSubDir         = Includi sottocartella
+sSysTray        = &Barra sistema
+sTempRest       = Tempo rimanente:
+sTimeOutDisc    = Tempo limite connessione per:
+sTimeoutLimit   = Tempo limite (min): [Max 600 min]
+sTooManyUser    = Troppi utenti collegati per questo login: %S [%S]
+sTotalDownload  = Totale download:
+sTotalUpload    = Totale upload:
+sTransfert      = Tempo di trasferimento:
+sTray           = Avvia nella barra di sistema
+sUMain          = Informazioni utente
+sUP             = Upload
+sUser           = Utenti
+sUsername       = Nome utente
+sUSetup         = Impostazione utente
+sVersion        = Server FTP TYPSoft versione %s
+sVersion2       = Scritto da Marc Bergeron - TYPSoft
+sVirtual        = Visualizza la cartella virtuale
+sVirtual2       = ("/C:/Cartella/" = "/")
+sWeb            = Pagina web:
+
+Status          = Stato:
+
+sCount          = Contatore attivo
+sCredit         = Ringraziamenti
+
+sCount1         = Conta file per sessione
+sCount2         = Conta byte per sessione
+sCount3         = Conta file in tutte le sessioni
+sCount4         = Conta byte in tutte le sessioni
+
+sfrmColor       = Definizione colori
+sSepTag         = Colore separatore
+sTextTag        = Colore testo
+sIDTag          = Colore id utente
+sClientTag      = Colore nome utente
+sIPTag          = Colore indirizzo IP
+sDateTag        = Colore ora evento
+sTimeTag        = Colore ora altro
+sMiscTag        = Colore testo vario
+sFileTag        = Colore file e cartelle
+sBackTag        = Colore testo sfondo
+
+sSound          = Suoni
+sSndConnect     = Suono per connessione utente
+sSndDisconnect  = Suono per disconnessione utente
+sSndDownStart   = Suono per avvio download
+sSndDownEnd     = Suono per fine download
+sSndUploadStart = Suono per avvio upload
+sSndUploadEnd   = Suono per fine upload

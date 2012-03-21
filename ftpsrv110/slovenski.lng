@@ -1,0 +1,192 @@
+//**********************************************************
+// Language File for TYPSoft FTP Server
+// For Version : 0.99.7
+// Language    : Slovenski
+// Author      : borg
+// Home Page   : -
+// E-Mail      : bgrzina@siol.net
+// Last Modify : September 11, 2002
+// Komentar    : Napake pri prevodu javite na zgorni email.
+//**********************************************************
+
+[LANGFILE]
+sAbort          = Prosim izberi uporabnika
+sAbortUser      = Prekini prenos
+sAbout          = Vizitka
+sAccessDirInv   = Ta direktorij ne obstaja
+sAdd            = Dodaj
+sAuthFail       = Neuspešna autentikacija: Uporabnikov %s IP: %s
+sAuthFailHD     = Ne najdem domaèega direktorija: Uporabnik: %s
+sAuthFailP      = Napaèno geslo: Uporabnikov %s IP: %s
+sBanIP          = Zavrzi IP
+sBrowse         = Prebrskaj
+sChangeUser     = Zamenjaj uporabniško ime za:
+sCheckUpdate    = Preveri za nadgradnjo
+sClear          = Zbriši zgodovino
+sClose          = Zapri
+sConnect        = Èas povezave
+sConnected      = Uporabnik %s povezan
+sConnectTo      = Povezan z %s. Dobi uporabniško ime.
+sCopyUser       = Kopiraj uporabnika
+sDate           = Dodaj datum v dnevnik.
+sDel            = Zbriši
+sDelUser        = Zbriši uporabnika
+sDeny           = Ni dostopa
+sDir            = Direktorij
+sDirAcc         = Dostop do direktorija
+sDisable        = Onesposobi raèun
+sDisableExitMsg = Onesposobi sporoèilo ob izhodu
+sDisableNOOP    = Onesposobi NOOP
+sDisconnect     = Klient %s izkljuèen
+sDisconnectUser = Izkljuèi uporabnika
+sDown           = Download
+sEdit           = Uredi
+sEmail          = Email
+sEncrypt        = Vrsta zašèitne
+sEnterMessage   = Datoteka pozdravnega sporoèila
+sExitMessage    = Datoteka poslovilnega sporoèila
+sFDel           = %S: Zbriši datoteko: %S
+sFile           = &Datoteka
+sFiles          = Datoteke
+sFontInfo       = Pisava
+sFontSelect     = Izberi pisavo
+sFMake          = %S: Ustvari direktorij: %S
+sFTP            = TYPSoft FTP Server
+sFTPPort        = FTP vrata:
+sHelp           = &Pomoè
+sHome           = Root Direktorij
+sHomeDirInv     = Domaèi direktorij ne obstaja
+sHost           = Gostitelj
+sIdleTime       = Neizrabljen èas:
+sIDNum          = ID
+sInvalidCarac   = Uporabniško ime ne sme vsebovati tega znaka: \/:|*?"<>
+sIP             = IP
+sIPAccess       = IP dostop
+sIPAccept       = Sprejet
+sIPDeny         = Zavrnjen
+sIPList         = Seznam IP-jev za tvoj raèunalnik
+sIPListRes      = Seznam IP-jev za dovoliti/blokirati
+sIPNote         = Klikni na IP in ga kopiraj na odložišèe.
+sKick           = Prosim, izberi uporabnika
+sLangue         = Jezik
+sLink           = Virtualna povezava
+sList           = Seznam uporabnikov
+sLog            = Avtomatsko shrani dnevnik.
+sMain           = Glavno
+sMake           = Ustvari
+sMaxUser1       = Maksimalno št. uporabnikov
+sMaxUser2       = na raèun:
+sMaxUserIP1     = Maksimalno št. simultanih uporabnikov
+sMaxUserIP2     = na raèun/na IP:
+sMaxSpeed       = Max. Download hitrost (v K/S)
+sMnuFTP         = FTP
+sModify         = Prilagodi
+sName           = FTP obvestilo:'FTP Server od TYPSoft'
+sNameLnk        = Ime povezave v direktoriju.
+sNew            = Nov
+sNewUser        = Nov uporabnik
+sNewVer         = Nova verzija
+sNHome          = Kateri je root direktorij?
+sNLogin         = Novo uporabniško ime?
+sNoFile         = Ni datoteke
+sNoHelp         = Pomoè še ni gotova.
+sNoNewVer       = Ni še nove verzije.
+sNoPort         = Vrata že v uporabi. Izberi druga vrata.
+sNoRep          = Izbrati moraš direktorij, da mu konfiguriraš nastavitve.
+sNoSelChemin    = Prosim, izberi direktorij
+sNoTLim         = 0 = Ni èasovne zapore
+sNoTrans        = Nezaposlen
+sNoTStart       = Server ni zagnan.
+sNoULim         = 0 = Ni limita uporabnikov
+sNoUser         = Ni uporabnikov
+sNPass          = Kaj je geslo?
+sOnlineHelp     = Online Pomoè
+sPass           = Geslo
+sPasteIP        = Prilepi IP v odložišèe
+sPort           = FTP nastavitve
+sQuit           = I&zhod
+sRbBuild        = Narejeno v
+sRbNone         = Noben
+sRemove         = Odstrani
+sRenDir         = Preimenuj direktorije
+sRenFile        = Preimenuj datoteke in direktorije
+sRepDel         = %S: Direktorij izbrisan: %S
+sRepNow         = %s: Trenutni direktorij: %s
+sRestart        = Za uveljavitev te spremembe moraš restartati server.
+sRetrFail       = %S: Prenos ni uspel %S
+sRetrOK         = %S: Datoteka uspešno prenešena: %S
+sRetrRes        = %S: Prenos, ponovi za: %S pri: %S bajtih
+sRetrStart      = %S: Zaèni prenašati pri %S
+sRFile          = %S: Preimenuj datoteko: %s
+sRun            = Zaženi FTP Server pri zagonu Windows.
+sSave           = Shrani
+sSessDown       = Download seja:
+sSessUp         = Upload seja:
+sSerStart       = Server Zagnan
+sSerStop        = Server Ustavljen
+sServer         = &Server
+sSetup          = Namestitev
+sSetupFTP       = FTP namestitev
+sSetupUser      = Namestitev uporabnika
+sShowCommand    = Pokaže vse uporabniške ukaze v glavnem oknu.
+sShowHelp       = ali pomoè, lahko vidiš na http://www.typsoft.com za Online Pomoè
+sShutDown       = Ali bi res rad ugasnil TYPSoft FTP Server?
+sSrvShutDown    = Ugašanje Server-ja
+sStart          = &Start
+sStop           = S&top
+sStorFail       = %S: Prenos gor ni uspel pri %s
+sStorOK         = %s: Datoteka prenešena gor: %s
+sStorStart      = %S: Zaèni prenašati gor pri %S
+sStorRes        = %S: Prenos gor, nadaljuj pri: %S pri: %S bajtih
+sSubDir         = Vsebuje poddirektorij
+sSysTray        = Sys&Tray
+sTempRest       = Zaèasni:
+sTimeOutDisc    = Zveza prekinjena za:
+sTimeoutLimit   = Prekinitev: (Min) [Max: 600 min]
+sTooManyUser    = Preveè uporabnikov na uporabniško ime: %S IP: %S
+sTotalDownload  = Skupni Download:
+sTotalUpload    = Skupni Upload:
+sTransfert      = Èas prenosa:
+sTray           = Zaèni v Systray-u.
+sUMain          = Uporabniške informacije
+sUP             = Upload
+sUser           = Uporabniki
+sUsername       = Uporabniško ime
+sUSetup         = Uporabniška namestitev
+sVersion        = TYPSoft FTP Server Verzija %s
+sVersion2       = Avtor Marc Bergeron - TYPSoft
+sVirtual        = Prikaz Virtualnega Direktorija
+sVirtual2       = ("/C:/Direktorij/" = "/")
+sWeb            = Domaèa stran:
+
+Status          = Status:
+
+sCount          = Raèunanje
+sCredit         = Kredit
+
+sCount1         = Seštevek datotek na sejo
+sCount2         = Seštevek bajtov na sejo
+sCount3         = Seštevek datotek vseh sej
+sCount4         = Seštevek bajtov vseh sej
+
+sfrmColor       = Izbira barv
+sSepTag         = Barva loèila
+sTextTag        = Barva teksta
+sIDTag          = Barva uporabniškega ID-ja
+sClientTag      = Barva uporabniškega imena
+sIPTag          = Barva IP-ja
+sDateTag        = Barva èasovnega dogodka
+sTimeTag        = Barva ostalih èasov
+sMiscTag        = Barva teksta uporabno
+sFileTag        = Barva datotek in direktorijev
+sBackTag        = Barva ozadja teksta
+
+sSound          = Zvok
+sSndConnect     = Zvok ko se uporabnik prikljuèi
+sSndDisconnect  = Zvok ko se uporabnik izkljuèi
+sSndDownStart   = Zvok ko se priène Download
+sSndDownEnd     = Zvok ko se Download konèa
+sSndUploadStart = Zvok ko se priène Upload
+sSndUploadEnd   = Zvok ko se Upload konèa
+
+

@@ -1,0 +1,194 @@
+//**********************************************************
+// Language File for TYPSoft FTP Server
+// For Version : 1.03
+// Language    : Russian 
+// Author      : Egor Chusov
+// Home Page   : None
+// E-Mail      : egorch@hotbox.ru
+// Last Modif  : April 16, 2003
+//**********************************************************
+
+[LANGFILE]
+sAbort          = Выберите пользователя
+sAbortUser      = Прервать передачу
+sAbout          = О программе
+sAccessDirInv   = Запрашиваемая папка не существует
+sAdd            = Добавить
+sAuthFail       = Аутентификация не удалась: пользователь %S [%S]
+sAuthFailHD     = Корневой каталог не найден: пользователь %S
+sAuthFailP      = Неверный пароль: пользователь %S [%S]
+sBanIP          = Запретить этот IP-адрес
+sBrowse         = Обзор
+sChangeUser     = Изменение имени пользователя на:
+sCheckUpdate    = Проверить обновления
+sClear          = Очистить журнал
+sClose          = Закрыть
+sConnect        = Длительность подключения
+sConnected      = Пользователь %s [%S] подключен
+sConnectTo      = Подключение к %S. Проверка имени пользователя.
+sCopyUser       = Копировать
+sDate           = Добавить дату в лог.
+sDel            = Удалить
+sDelUser        = Удалить
+sDeny           = Нет доступа
+sDir            = Папка
+sDirAcc         = Доступ к папкам
+sDisable        = Отключить учетную запись
+sDisableExitMsg = Отключить сообщение при выходе
+sDisableNOOP    = Отключить NOOP
+sDisconnect     = Пользователь %S [%S] отключился
+sDisconnectUser = Отключить пользователя
+sDown           = Скачивание
+sEdit           = Правка
+sEmail          = Email
+sEncrypt        = Метод шифрования
+sEnterMessage   = Файл для сообщения-приветствия
+sExitMessage    = Файл для сообщения-прощания
+sFDel           = %S: Удаление файла: %S
+sFile           = &Файл
+sFiles          = Файлы
+sFontInfo       = Информация о шрифте
+sFontName       = Название шрифта
+sFontSelect     = Шрифт
+sFontSize       = Размер шрифта
+sFMake          = %S: Создание папки: %S
+sFTP            = TYPSoft FTP Server
+sFTPPort        = FTP-порт:
+sHelp           = &Помощь
+sHideVersion    = Заменить FTP баннер вашим IP
+sHome           = Корневой каталог
+sHomeDirInv     = Корневой каталог не существует
+sHostname       = Хост
+sIdleTime       = Бездействие:
+sIDNum          = ID
+sInvalidCarac   = Логин не может содержать эти символы: \/:|*?"<>
+sIP             = IP
+sIPAccess       = Ограничение доступа по IP
+sIPAccept       = Разрешить
+sIPDeny         = Запретить
+sIPList         = Список IP для вашего компьютера
+sIPListRes      = Список IP для Разрешения/Запрета
+sIPNote         = Укажите на IP и он скопируется в буфер
+sKick           = Выберите пользователя
+sLangue         = Language
+sLink           = Виртуальная
+sList           = Пользователи:
+sLog            = Автоматически сохранять журнал.
+sMain           = Главное
+sMake           = Создание
+sMaxUser1       = Макс. подключений
+sMaxUser2       = для этого пользователя:
+sMaxUserIP1     = Макс. одновременных
+sMaxUserIP2     = подключений с одного IP:
+sMaxSpeed       = Макс. скорость скачивания, КБ/с
+sMnuFTP         = FTP
+sModify         = Изменить
+sNameLnk        = Имя виртуальной папки.
+sNew            = Новый
+sNewUser        = Новый
+sNewVer         = Новая версия
+sNHome          = Какой корневой каталог?
+sNLogin         = Какой новый логин?
+sNoFile         = Файла нет
+sNoHelp         = Справка не готова.
+sNoNewVer       = Новой версии нет
+sNoPort         = Порт уже используется. Выберите другой.
+sNoRep          = Вам нужно выбрать папку для определения прав доступа к ней.
+sNoSelChemin    = Выберите папку
+sNoTLim         = 0 = Не ограничено по времени
+sNoTrans        = Бездействие
+sNoTStart       = Сервер не запущен.
+sNoULim         = 0 = Нет ограничений
+sNoUser         = Пользователей нет
+sNPass          = Какой пароль?
+sOnlineHelp     = Справка в интернете
+sPass           = Пароль
+sPasteIP        = Вставить IP 
+sPathAlreadInc  = Путь, который вы пытаетесь добавить, уже добавлен
+sPort           = Установки FTP
+sQuit           = В&ыход
+sRbBuild        = Часть
+sRbNone         = Нет
+sRemove         = Удаление
+sRenDir         = Переименовать папки
+sRenFile        = Переименовать файлы и папки
+sRenUser        = Переименовать
+sRepDel         = %S: Папка удалена: %S
+sRepNow         = %S: Текущая папка: %s
+sRestart        = Чтобы изменения вступили в силу, нужно перезапустить сервер
+sRetrFail       = %S: Не удалось скачивание %S
+sRetrOK         = %S: Файл скачан: %S
+sRetrRes        = %S: Скачивание, возобновление: %S с %S байт
+sRetrStart      = %S: Началось скачивание %S
+sRFile          = %S: Переименование файла: %s
+sRUser          = Переименовать %S в:
+sRun            = Запускать FTP-сервер при загрузке Windows.
+sSave           = Сохранить
+sSessDown       = Скачано за сеанс:
+sSessUp         = Закачано за сеанс:
+sSerStart       = Сервер запущен
+sSerStop        = Сервер остановлен
+sServer         = &Сервер
+sSetup          = Настройки
+sSetupFTP       = Настройки FTP
+sSetupUser      = Настройки пользователей
+sShowCommand    = Показывать все команды пользователей в главном окне
+sShowHelp       = Для получения справки вы можете посетить http://www.typsoft.com
+sShutDown       = Вы уверены, что хотите остановить TYPSoft FTP Server?
+sSrvShutDown    = Остановка сервера
+sStart          = &Запуск
+sStop           = &Остановка
+sStorFail       = %S: Не удалось закачивание %S
+sStorOK         = %s: Файл закачан: %S
+sStorStart      = %S: Началось закачивание %S
+sStorRes        = %S: Закачивание, возобновление: %S с %S байт
+sSubDir         = Вложенные папки
+sSysTray        = &Трей
+sTempRest       = Осталось времени:
+sTimeOutDisc    = Таймаут соединения для:
+sTimeoutLimit   = Таймаут: (мин) [Макс.: 600 мин]
+sTooManyUser    = Слишком много пользователей подключено под этим логином: %S [%S]
+sTotalDownload  = Всего скачано:
+sTotalUpload    = Всего закачано:
+sTransfert      = Время пересылки:
+sTray           = Запускать в трее
+sUMain          = Пользователи
+sUP             = Закачивание
+sUser           = Пользователи
+sUsername       = Имя пользователя
+sUSetup         = Настройки пользователя
+sVersion        = TYPSoft FTP Server, версия %s
+sVersion2       = Автор: Marc Bergeron, TYPSoft
+sVirtual        = Отображение виртуальных папок
+sVirtual2       = ("/C:/Directory/" = "/")
+sWeb            = Homepage:
+
+Status          = Статус:
+
+sCount          = Счет
+sCredit         = Credit
+
+sCount1         = Подсчет файлов за сеанс
+sCount2         = Подсчет байтов за сеанс
+sCount3         = Подсчет файлов за все сеансы
+sCount4         = Подсчет байтов за все сеансы
+
+sfrmColor       = Задание цветов
+sSepTag         = Разделитель
+sTextTag        = Текст
+sIDTag          = ID пользователя
+sClientTag      = Имя пользователя
+sIPTag          = IP
+sDateTag        = Время события
+sTimeTag        = Другое время
+sMiscTag        = Смешанный текст
+sFileTag        = Файлы и папки
+sBackTag        = Фоновый текст
+
+sSound          = Звуковой сигнал
+sSndConnect     = Когда пользователь подключился
+sSndDisconnect  = Когда пользователь отключился
+sSndDownStart   = Когда началось скачивание
+sSndDownEnd     = Когда закончилось скачивание
+sSndUploadStart = Когда началось закачивание
+sSndUploadEnd   = Когда закончилось закачивание

@@ -1,0 +1,196 @@
+//**********************************************************
+// Language File TYPSoft FTP Server
+// For Version : 1.08
+// Language    : Polski
+// Author      : ZeN
+// Home Page   : 
+// E-Mail      : zen@op.pl
+// Last Modify : 17 PaŸdziernika 2003
+//**********************************************************
+
+[LANGFILE]
+sAbort          = Proszê wybraæ u¿ytkownika
+sAbortUser      = Przerwij œci¹ganie
+sAbout          = O Programie
+sAccessDirInv   = Wybrany katalog nie istnieje
+sAdd            = Dodaj
+sAuthFail       = B³¹d identyfikacji: U¿ytkownik %S [%S]
+sAuthFailHD     = G³ówny katalog nie znaleziony : Konto %S
+sAuthFailP      = Z³e has³o: Konto %S [%S]
+sBanIP          = Zbanuj ten IP
+sBrowse         = Wyœwietl
+sChangeUser     = Zmieñ nazwê konta na:
+sCheckUpdate    = SprawdŸ now¹ wersjê
+sClear          = Wyczyœæ historiê
+sClose          = Zamknij
+sConnect        = Czas po³¹czenia
+sConnected      = U¿ytkownik %s [%S] Po³¹czony
+sConnectTo      = £¹czê z %S. Pobierz nazwê u¿ytkownika.
+sCopyUser       = Kopiuj konto
+sDate           = Dodaj datê do LOG-u.
+sDel            = Usuñ
+sDelUser        = Usuñ Konto
+sDeny           = Brak dostêpu
+sDir            = Katalog
+sDirAcc         = Katalog dostêpu
+sDisable        = Wy³¹cz to konto
+sDisableExitMsg = Wy³¹cz pokazywanie wiadomoœci podczas roz³¹czania.
+sDisableNOOP    = Wy³¹cz NOOP
+sDisconnect     = U¿ytkownik %S [%S] roz³¹czony
+sDisconnectUser = Roz³¹cz u¿ytkownika
+sDown           = Pobieranie
+sEdit           = Edytuj
+sEmail          = E-mail
+sEncrypt        = Metoda kodowania 
+sEnterMessage   = Tekst na powitanie
+sExitMessage    = Tekst na po¿egnanie
+sFDel           = %S: Usuñ plik: %S
+sFile           = &Plik
+sFiles          = Pliki
+sFontInfo       = Czcionka
+sFontName       = Nazwa czcionki:
+sFontSelect     = Zmieñ
+sFontSize       = Rozmiar czcionki:
+sFMake          = %S: Utwórz katalog: %S
+sFTP            = TYPSoft FTP Server
+sFTPPort        = FTP Port:
+sHelp           = &Pomoc
+sHideVersion    = Wymieñ FTP banner na adres IP serwera
+sHome           = G³ówny katalog
+sHomeDirInv     = G³ówny katalog jest niedostêpny
+sHost	        = Host
+sIdleTime       = Czas bezczynnoœci:
+sIDNum          = ID
+sInvalidCarac   = Login nie mo¿e mieæ takich znaków: \/:|*?"<>
+sIP             = IP
+sIPAccess       = Regu³y IP
+sIPAccept       = Dostêp
+sIPDeny         = Blokada
+sIPList         = Lista IP twojego komputera
+sIPListRes      = Lista IP z dostêpem/z blokad¹
+sIPNote         = Kliknij na IP (adres zostanie skopiowany do schowka).
+sKick           = Wybierz u¿ytkownika
+sLangue         = Jêzyk
+sLink           = Wirtualny link
+sList           = Lista kont
+sLog            = Automatycznie zapisz LOG-a.
+sMain           = Log
+sMake           = Utwórz
+sMaxUser1       = Max. iloœæ po³¹czeñ
+sMaxUser2       = dla tego konta:
+sMaxUserIP1     = Max. iloœæ po³¹czeñ
+sMaxUserIP2     = dla tego IP:
+sMaxSpeed       = Max. prêdkoœæ pobierania (in Kb/S)
+sMnuFTP         = FTP
+sModify         = Zmieñ
+sName           = FTP Banner Ex:'FTP Server of TYPSoft'
+sNameLnk        = Nazwa skrótu w katalogu.
+sNew            = Nowy
+sNewUser        = Nowe konto
+sNewVer         = Nowa wersja
+sNHome          = Jaki jest g³ówny katalog?
+sNLogin         = Podaj nowy LOGIN?
+sNoFile         = Brak pliku
+sNoHelp         = Pomoc jest niedostêpna.
+sNoNewVer       = Jeszcze nie ma nowej wersji.
+sNoPort         = Ten port jest ju¿ u¿ywany. Zmieñ na inny.
+sNoRep          = Musisz wybraæ katalog ¿eby ustawiæ jego prawa.
+sNoSelChemin    = Proszê zmieniæ katalog
+sNoTLim         = 0 = Bez limitu czasu
+sNoTrans        = Bezczynny
+sNoTStart       = Serwer zamkniêty.
+sNoULim         = 0 = Bez limitu u¿ytkowników
+sNoUser         = Brak po³¹czeñ
+sNPass          = Jakie jest has³o?
+sOnlineHelp     = Pomoc online
+sPass           = Has³o
+sCopyIP         = Skopiuj IP do schowka
+sPasteIP        = Wklej IP ze schowka
+sPort           = Konfiguracja FTP
+sQuit           = Wy&jœcie
+sPathAlreadInc  = Œcie¿ka, która próbujesz dodaæ, jest ju¿ dodana
+sRbBuild        = Build in
+sRbNone         = Anuluj
+sRemove         = Usuwanie
+sRenDir         = Usuñ katalogi
+sRenFile        = Zmiana nazw plików i katalogów
+sRenUser        = Zmieñ nazwê konta
+sRepDel         = %S: Katalog skasowany: %S
+sRepNow         = %S: Bie¿¹cy katalog: %s
+sRestart        = Aby zastosowaæ zmiany portu musisz zrestartowaæ serwer.
+sRetrFail       = %S: Pobieranie PRZERWANE z %S
+sRetrOK         = %S: Plik pobrany: %S
+sRetrRes        = %S: Pobieranie, Postêp: %S At: %S bajtów
+sRetrStart      = %S: ROZPOCZÊTO pobieranie %S
+sRFile          = %S: Zmiana nazwy pliku: %s
+sRUser          = Zmieñ %S na:
+sRun            = Uruchom FTP Server przy starcie Windowsa.
+sSave           = Zapisz
+sSessDown       = Pobrano razem:
+sSessUp         = Wys³ano razem:
+sSerStart       = Serwer START
+sSerStop        = Serwer STOP
+sServer         = &Serwer
+sSetup          = Konfiguracja
+sSetupFTP       = Konfiguracja FTP
+sSetupUser      = Konfiguracja kont
+sShowCommand    = Poka¿ komendy u¿ytkownika w g³ównym oknie (LOG).
+sShowHelp       = Pomocy szukaj na stronie: http://www.typsoft.com
+sShutDown       = Jesteœ pewien, ¿e chcesz wy³¹czyæ TYPSoft FTP Server?
+sSrvShutDown    = Wy³¹cz Serwer.
+sStart          = &Start
+sStop           = S&top
+sStorFail       = %S : B³¹d wysy³ania %S
+sStorOK         = %s : Plik wys³any : %S
+sStorStart      = %S : Zaczynam wysy³aæ of %S
+sStorRes        = %S : Wysy³anie, Postêp : %S at : %S bajtów
+sSubDir         = Z podkatalogami
+sSysTray        = Sys&Tray
+sTempRest       = Pozosta³y czas:
+sTimeOutDisc    = Czas po³¹czenia siê skoñczy³ dla:
+sTimeoutLimit   = Czas bezczynnoœci: (Min) [Max: 600 min]
+sTooManyUser    = Za du¿o po³¹czeñ na ten Login : %S [%S]
+sTotalDownload  = Dane pobrane:
+sTotalUpload    = Dane wys³ane:
+sTransfert      = Czas transferu:
+sTray           = Uruchom w Trayu.
+sUMain          = Informacje o po³¹czeniach:
+sUP             = Wysy³anie
+sUser           = Konta
+sUsername       = Nazwa
+sUSetup         = Konfiguracja u¿ytkownika
+sVersion        = TYPSoft FTP Server Wersja %s
+sVersion2       = Autor: Marc Bergeron - TYPSoft
+sVirtual        = Poka¿ wirtualn¹ œcie¿kê
+sVirtual2       = ("/C:/Katalog/" = "/")
+sWeb            = Strona domowa:
+
+Status          = Stan:
+
+sCount          = Licznik w³¹czony
+sCredit         = Kredyt
+
+sCount1         = Iloœæ plików na 1 sesjê
+sCount2         = Iloœæ bajtów na 1 sesjê
+sCount3         = Iloœæ plików ogó³em
+sCount4         = Iloœæ bajtów ogó³em
+
+sfrmColor       = Zdefiniuj kolory
+sSepTag         = Separator
+sTextTag        = Tekst
+sIDTag          = ID u¿ytkownika
+sClientTag      = Nazwa u¿ytkownika
+sIPTag          = IP
+sDateTag        = Czas zdarzenia
+sTimeTag        = Inny czas
+sMiscTag        = Inny tekst
+sFileTag        = Pliki i katalogi
+sBackTag        = T³o tekstu
+
+sSound          = DŸwiêki
+sSndConnect     = Po³¹czenie
+sSndDisconnect  = Roz³¹czenie
+sSndDownStart   = Rozpoczêcie pobierania
+sSndDownEnd     = Zakoñczenie pobierania
+sSndUploadStart = Rozpoczêcie wysy³ania
+sSndUploadEnd   = Zakoñczenie wysy³ania

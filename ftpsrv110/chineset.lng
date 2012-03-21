@@ -1,0 +1,194 @@
+//**********************************************************
+// TYPSoft FTP 服務器的語言文件
+// 版本     : 1.03.0
+// 語言     : 繁體中文
+// 作者     : 
+// 主頁     : 
+// 電子郵件 : 
+// 最后修改 : 2003.03.13
+//**********************************************************
+
+[LANGFILE]
+sAbort          = 請選擇一個用戶
+sAbortUser      = 放棄傳輸
+sAbout          = 關於
+sAccessDirInv   = 要訪問的目錄不存在
+sAdd            = 增加
+sAuthFail       = 權限檢查失敗: 用戶%s IP: %s
+sAuthFailHD     = 主目錄沒有找到: User: %s
+sAuthFailP      = 錯誤的用戶名或者密碼: User %s IP: %s
+sBanIP          = 被禁止的 IP
+sBrowse         = 瀏覽
+sChangeUser     = 更改用戶:
+sCheckUpdate    = 更新檢查
+sClear          = 清除歷史紀錄
+sClose          = 關閉
+sConnect        = 連接時間
+sConnected      = 用戶 %s 連接
+sConnectTo      = 連接主機 %s. 得到用戶名稱.
+sCopyUser	= 複製用戶
+sDate           = 在記錄中添加日期.
+sDel            = 刪除
+sDelUser        = 刪除用戶
+sDeny           = 不能訪問
+sDir            = 目錄
+sDirAcc         = 目錄訪問
+sDisable        = 禁用帳戶
+sDisableExitMsg = 停用程式離開時提示信息
+sDisableNOOP    = 禁用 NOOP
+sDisconnect     = 客戶端 %s, %s 斷開連接
+sDisconnectUser = 斷開用戶連接
+sDown           = 下載
+sEdit           = 編輯
+sEmail          = 電子郵件
+sEncrypt        = 加密方法
+sEnterMessage   = 歡迎消息文件
+sExitMessage    = 退出消息文件
+sFDel           = %S: 刪除文件: %S
+sFile           = 文件(&F)
+sFiles          = 文件
+sFontInfo	= 字體信息
+sFontName       = 字體名稱
+sFontSelect	= 字體選擇
+sFontSize       = 字體大小
+sFMake          = %S: 創建目錄: %S
+sFTP            = TYPSoft FTP 服務器
+sFTPPort        = FTP 端口:
+sHelp           = 幫助(&H)
+sHideVersion    = 以本機 IP 替代 TYPSoft FTP 的歡迎信息
+sHome           = 根目錄
+sHomeDirInv	= 根目錄不存在
+sHostname       = 主機
+sIdleTime       = 閑置時間:
+sIDNum          = ID
+sInvalidCarac   = 登錄不能包含以下字符: \/:|*?"<>
+sIP             = IP
+sIPAccess       = IP 限制
+sIPAccept       = 允許
+sIPDeny         = 拒絕
+sIPList         = 你的 IP 列表
+sIPListRes      = 連接的 IP 列表 (拒絕 / 允許)
+sIPNote         = 點擊一個 IP 地址並拷貝到剪貼板.
+sKick           = 請選擇用戶
+sLangue         = 語言
+sLink           = 虛擬鏈接
+sList           = 用戶列表
+sLog            = 自動保存日誌
+sMain           = 主窗口
+sMake           = 創建
+sMaxUser1       = 最大用戶
+sMaxUser2       = 每連接:
+sMaxUserIP1     = 最大同步用戶數
+sMaxUserIP2     = 每 IP:
+sMaxSpeed       = 最大下載速度 (K/S)
+sMnuFTP         = FTP 服務器(&F)
+sModify         = 修改
+sNameLnk        = 鏈接目錄名稱.
+sNew            = 新建
+sNewUser        = 新建用戶
+sNewVer         = 新版本
+sNHome          = 請選擇根目錄
+sNLogin         = 新連接登入是什么?
+sNoFile         = 未有文件
+sNoHelp         = 幫助文件找不到.
+sNoNewVer       = 沒有新版本
+sNoPort         = 端口正在使用. 請選擇一個其他的.
+sNoRep          = 你必須選擇一個目錄放到右邊.
+sNoSelChemin    = 請選擇目錄
+sNoTLim         = 0 = 沒有時間限制
+sNoTrans        = 閑置
+sNoTStart       = 服務器沒有啟動.
+sNoULim         = 0 = 沒有用戶限制
+sNoUser         = 沒有用戶
+sNPass          = 密碼是什么?
+sOnlineHelp     = 在線幫助
+sPass           = 密碼
+sPasteIP        = 從剪貼板拷貝 IP
+sPathAlreadInc  = 你選擇的路徑已經被添加
+sPort           = FTP 設置
+sQuit           = 離開(&E)
+sRbBuild        = 內嵌
+sRbNone         = 空
+sRemove         = 刪除
+sRenDir         = 目錄重命名
+sRenFile        = 文件和目錄重命名
+sRenUser        = 用戶重命名
+sRepDel         = %S: 目錄刪除: %S
+sRepNow         = %s: 當前目錄: %s
+sRestart        = 為了使改變生效, 你必須重新啟動服務器.
+sRetrFail       = %S: 下載失敗: %S
+sRetrOK         = %S: 文件下載成功: %S
+sRetrRes        = %S: 繼續下載: %S , 速度: %S 字節
+sRetrStart      = %S: 開始下載 %S
+sRFile          = %S: 重命名文件: %s
+sRUser          = 重命名 %S 為 :
+sRun            = Windows 啟動時啟動服務器.
+sSave           = 保存
+sSessDown       = 每連接下載:
+sSessUp         = 每連接上傳:
+sSerStart       = 服務器開始運行
+sSerStop        = 服務器停止運行
+sServer         = 服務器(&S)
+sSetup          = 設置
+sSetupFTP       = FTP 設置
+sSetupUser      = 用戶設置
+sShowCommand	= 在主窗口顯示所有用戶命令.
+sShowHelp       = 請到 http://www.typsoft.com 查閱在線幫助.
+sShutDown       = 確定要關閉 TYPSoft FTP 服務器嗎?
+sSrvShutDown	= 服務器關閉
+sStart          = 啟動(&S)
+sStop           = 停止(&T)
+sStorFail       = %S: 上傳 %s 失敗
+sStorOK         = %s: 上傳文件: %s
+sStorStart      = %S: 開始上傳 %S
+sStorRes        = %S: 繼續上傳: %S , 速度: %S 字節
+sSubDir         = 包括子目錄
+sSysTray        = 系統托盤(&T)
+sTempRest       = 剩餘時間:
+sTimeOutDisc    = 連接逾時:
+sTimeoutLimit   = 逾時: (最小) [最大: 600 分鐘]
+sTooManyUser    = 該 IP 有太多用戶登入: %S [%S]
+sTotalDownload  = 所有下載:
+sTotalUpload    = 所有上傳:
+sTransfert      = 傳輸時間:
+sTray           = 執行時出現在系統托盤.
+sUMain          = 用戶信息
+sUP             = 上傳
+sUser           = 用戶
+sUsername       = 用戶名稱
+sUSetup         = 用戶設置
+sVersion        = TYPSoft FTP 服務器版本 %s
+sVersion2       = 作者 Marc Bergeron - TYPSoft
+sVirtual        = 虛擬目錄顯示
+sVirtual2       = ( "/C:/Directory/" = "/" )
+sWeb            = 主頁:
+
+Status          = 狀態:
+
+sCount          = 計數
+sCredit         = 協力
+
+sCount1         = 計算每連接的文件數
+sCount2         = 計算每連接的字節數
+sCount3         = 計算所有連接的文件數
+sCount4         = 計算所有連接的字節數
+
+sfrmColor       = 顏色定義
+sSepTag         = 分隔符
+sTextTag        = 文字顏色
+sIDTag          = 用戶帳號顏色
+sClientTag      = 用戶名稱顏色
+sIPTag          = IP 顏色
+sDateTag        = 事件時間顏色
+sTimeTag        = 其他時間顏色
+sMiscTag        = 其他選項顏色
+sFileTag        = 文件和目錄顏色
+sBackTag        = 背景文字顏色
+
+sSound          = 聲音
+sSndConnect     = 當一個用戶連接時的聲音 
+sSndDisconnect  = 當一個用戶斷開連接時的聲音
+sSndDownStart   = 開始下載時的聲音
+sSndDownEnd     = 下載結束時的聲音
+sSndUploadStart = 開始上傳時的聲音
+sSndUploadEnd   = 上傳結束時的聲音

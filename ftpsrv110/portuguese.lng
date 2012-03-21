@@ -1,0 +1,191 @@
+//**********************************************************
+// Language File for TYPSoft FTP Server
+// For Version : 0.99.9
+// Language    : Portuguese
+// Author      : Alysson Bruno
+// Home Page   : 
+// E-Mail      : abruno@pop.com.br
+// Last Modify : December 06, 2002
+//**********************************************************
+
+[LANGFILE]
+sAbort          = selecione um usuário
+sAbortUser      = Cancelar Transferência
+sAbout          = Sobre
+sAccessDirInv   = O Diretório acessado não existe
+sAdd            = Adicionar
+sAuthFail       = Autenticação Falhou: Usuário %S [%S]
+sAuthFailHD     = Diretório Principal não encontrado : Usuário %S
+sAuthFailP      = Senha Errada : Usuário %S [%S]
+sBanIP          = IP Proibido
+sBrowse         = Procurar
+sChangeUser     = Aliterar Nome do Usuário para :
+sCheckUpdate    = Verificando por atualizações
+sClear          = Limpar Histórico
+sClose          = Fechar
+sConnect        = Tempo conectado
+sConnected      = Usuário %s [%S] Conectado
+sConnectTo      = Conectando a %S. Obtendo Nome do Usuário.
+sCopyUser       = Copiar Usuário
+sDate           = Adiciona usuário ao LOG.
+sDel            = Excluir
+sDelUser        = Excluir Usuário
+sDeny           = Sem Acesso
+sDir            = Diretório
+sDirAcc         = Permissão de Diretório
+sDisable        = Desabilitar conta de usuário
+sDisableExitMsg = Desabilitar Mensagem de saída
+sDisableNOOP    = Desabilitar NOOP
+sDisconnect     = Cliente %S [%S] Desconectando
+sDisconnectUser = Usuário desconectando
+sDown           = Download
+sEdit           = Editar
+sEmail          = E-mail
+sEncrypt        = Método de Criptografia
+sEnterMessage   = Arquivo com Mensagem de Boas Vindas
+sExitMessage    = Arquivo com Mensagem de Adeus
+sFDel           = %S : Arquivo excluído : %S
+sFile           = &Arquivo
+sFiles          = Arquivos
+sFontInfo       = Informações de Fontes
+sFontSelect     = Fonte Selecionada
+sFMake          = %S : Criar Diretório : %S
+sFTP            = TYPSoft Servidor de FTP - Freeware
+sFTPPort        = Porta de FTP  :
+sHelp           = &Ajuda
+sHome           = Diretório Principal
+sHomeDirInv     = O Diretório Principal não existe
+sHostname       = Servidor
+sIdleTime       = Tempo Inativo:
+sIDNum          = ID
+sInvalidCarac   = O Login não pode ter os seguintes caracteres: \/:|*?"<>
+sIP             = IP
+sIPAccess       = IP Proibidos
+sIPAccept       = Permitir
+sIPDeny         = Proibir
+sIPList         = Lista de IP's do seu computador
+sIPListRes      = Lista de IP's Proibidos/Permitidos
+sIPNote         = Clique em um IP e ele será copiado para a área de transferência.
+sKick           = Por favor, selecione um usuário
+sLangue         = Idioma.
+sLink           = Link Virtual
+sList           = Lista de Usuários
+sLog            = Automaticamente salva arquivo de log.
+sMain           = Principal
+sMake           = Criar
+sMaxUser1       = Usuários Máximos
+sMaxUser2       = por Conta :
+sMaxUserIP1     = Usuários Máximos Simultâneos
+sMaxUserIP2     = por Conta/IP :
+sMaxSpeed       = Velocidade Máxima de Download (in K/S)
+sMnuFTP         = FTP
+sModify         = Modificar
+sNameLnk        = Nome do Link no Diretório.
+sNew            = Novo
+sNewUser        = Novo Usuário
+sNewVer         = Nova Versão
+sNHome          = Qual é o Diretório Principal ?
+sNLogin         = Qual é o Novo Login ?
+sNoFile         = Sem Arquivo
+sNoHelp         = Help não está pronto.
+sNoNewVer       = Nenhuma Versão Nova
+sNoPort         = A Porta está em Uso. Escolha outra.
+sNoRep          = Primeiro escolha Um diretório, depois atribua as permissões.
+sNoSelChemin    = Por Favor, escolha um Diretório
+sNoTLim         = 0 = Sem Tempo Limite
+sNoTrans        = Inativo
+sNoTStart       = O Servidor Não foi iniciado.
+sNoULim         = 0 = Sem Limite de Usuários
+sNoUser         = Sem Usuários
+sNPass          = Qual é a senha?
+sOnlineHelp     = Ajuda on-line
+sPass           = Senha
+sPasteIP        = Colar IP na área de transferência
+sPathAlreadInc  = O Caminho que você quer adicionar já está adicionado
+sPort           = Configuração do FTP
+sQuit           = &Sair
+sRbBuild        = Construir
+sRbNone         = Nada
+sRemove         = Remover
+sRenDir         = Renomear Diretórios
+sRenFile        = Renomear Arquivos e Diretórios
+sRenUser        = Renomear Usuários
+sRepDel         = %S : Diretório Apagado : %S
+sRepNow         = %S : Diretório Corrente : %s
+sRestart        = Para Aplicar esta alterações, você precisa reiniciar o servidor.
+sRetrFail       = %S : Falha no Download em %S
+sRetrOK         = %S : Arquivo Baixado : %S
+sRetrRes        = %S : Baixando, reinício : %S em: %S bytes
+sRetrStart      = %S : Iniciar Download de %S
+sRFile          = %S : Arquivo Renomeado : %s
+sRUser          = Renomear %S para :
+sRun            = Iniciar o Servidor de FTP na inicialização do Windows.
+sSave           = Salvar
+sSessDown       = Seção de Download:
+sSessUp         = Seção de Upload:
+sSerStart       = Servidor Inicializado
+sSerStop        = Servidor Parado
+sServer         = &Servidor
+sSetup          = Configurações
+sSetupFTP       = Configurações do FTP
+sSetupUser      = Configurações do usuário 
+sShowCommand    = Mostrar Todos os comandos do usuário na janela principal
+sShowHelp       = Para obter Ajuda, Acesse: http://www.typsoft.com para a Ajuda on-line
+sShutDown       = Você tem certeza que deseja sair do TYPSoft FTP?
+sSrvShutDown    = Parando o Servidor
+sStart          = &Iniciar
+sStop           = &Parar
+sStorFail       = %S : Falha no Upload  em %S
+sStorOK         = %s : Arquivo transferido : %S
+sStorStart      = %S : iniciando transferência de %S
+sStorRes        = %S : transferência, reinício : %S em : %S bytes
+sSubDir         = Sub-diretório incluído
+sSysTray        = Ícone na bandeja
+sTempRest       = Tempo restante:
+sTimeOutDisc    = Tempo de Conexão excedido para:
+sTimeoutLimit   = Time-Out: (Min) [Max: 600 min]
+sTooManyUser    = Muitos usuários conectados neste Login: %S [%S]
+sTotalDownload  = Download Total  :
+sTotalUpload    = Upload Total :
+sTransfert      = Tempo de Transferência:
+sTray           = Iniciar na bandeja.
+sUMain          = Informações de usuários
+sUP             = Upload
+sUser           = Usuários
+sUsername       = Nome do Usuário
+sUSetup         = Configurações de Usuários
+sVersion        = TYPSoft FTP Server Version %s
+sVersion2       = Desenvolvido por Marc Bergeron - TYPSoft - Traduzido por Alysson Bruno
+sVirtual        = Mostrar Diretório Virtual
+sVirtual2       = ("/C:/Directory/" = "/")
+sWeb            = Home Page :
+
+Status          = Status:
+
+sCount          = Colaboradores
+sCredit         = Créditos
+
+sCount1         = Contagem de Arquivos por seção
+sCount2         = Contagem de Bytes por Seção
+sCount3         = Contagem de Arquivos em todas as seções 
+sCount4         = Contagem de Bytes em todas as seções 
+
+sfrmColor       = Definição de Cores
+sSepTag         = Separadores
+sTextTag        = Texto
+sIDTag          = ID do Usuário
+sClientTag      = Nome do Usuário
+sIPTag          = IP
+sDateTag        = Event Time
+sTimeTag        = Other Time
+sMiscTag        = Miscellaneous Text
+sFileTag        = Arquivo e Diretório
+sBackTag        = Texto de Fundo
+
+sSound          = Som de Alertar
+sSndConnect     = Quando um usuário Conectar
+sSndDisconnect  = Quando um usuário Desconectar
+sSndDownStart   = Quando um Download é iniciado
+sSndDownEnd     = Quando um Download termina
+sSndUploadStart = Quando um Upload é iniciado
+sSndUploadEnd   = Quando um Upload termina

@@ -1,0 +1,155 @@
+//**********************************************************
+// Language File for TYPSoft FTP Server
+// For Version : 0.99.7
+// Language    : Galego
+// Author      : Xosé Antón Vicente Rodríguez
+// Home Page   : http://www.iespana.es/engalego
+// E-Mail      : antonvicente@navegalia.com
+// Last Modify : October 29, 2002
+//**********************************************************
+
+[LANGFILE]
+sAbort          = Selecciona un Usuario
+sAbortUser      = Cancelar Transferencia
+sAbout          = Acerca de
+sAdd            = Agregar
+sAuthFail       = Identificación Fallida: Usuario %s IP: %s
+sAuthFailHD     = Directorio Principal non Atopado: Usuario: %s
+sAuthFailP      = Password Incorrecto: Usuario %s IP: %s
+sBanIP          = IP Prohibida
+sBrowse         = Buscar
+sChangeUser     = Trocar Nome de Usuario por:
+sCheckUpdate    = Comprobar Actualizacións
+sClear          = Limpar Rexistros
+sClose          = Pechar
+sConnect        = Tempo Conectado
+sConnected      = Usuario %s Conectado
+sConnectTo      = Conectando %s. Obtendo Nome de Usuario.
+sDate           = Agregar data ao Log.
+sDel            = Borrar
+sDelUser        = Borrar Usuario
+sDeny           = Sen Acceso
+sDir            = Directorio
+sDirAcc         = Acceso a Directorios
+sDisable        = Desactivar Conta de Usuario
+sDisableExitMsg = Desactivar Mensaxe á Saída
+sDisableNOOP    = Desactivar NOOP
+sDisconnect     = Cliente %s, %s Desconectado
+sDisconnectUser = Desconectar Usuario
+sDown           = Baixar
+sEdit           = Editar
+sEncrypt        = Método Encriptación
+sEnterMessage   = Arquivo para Mensaxe de Benvida
+sExitMessage    = Arquivo para Mensaxe de Despedida
+sFDel           = %S: Borrar Arquivo: %S
+sFile           = Arquivo
+sFiles          = Arquivos
+sFMake          = %S: Crear Directorio: %S
+sFTP            = TYPSoft FTP Server
+sFTPPort        = Porto FTP:
+sHelp           = Axuda
+sHome           = Directorio Raiz
+sHost           = Servidor
+sIdleTime       = Tempo Inactivo:
+sIDNum          = ID
+sInvalidCarac   = O Login non Pode Conter os Caracteres: \/:|*?"<>|
+sIP             = IP
+sIPAccess       = IP´s Prohibidas
+sIPList         = Lista de IP´s con Acceso Prohibido
+sIPNote         = Fai Click nunha IP e copiarase ó portapapeis.
+sKick           = Selecciona un Usuario
+sLangue         = Idioma
+sLink           = Link Virtual
+sList           = Lista de Usuarios
+sLog            = Gardar Log Automáticamente.
+sMain           = Principal
+sMake           = Crear
+sMaxUser1       = Usuarios Máximos
+sMaxUser2       = por conta:
+sMaxUserIP1     = Usuarios Máximos Simultáneos
+sMaxUserIP2     = por conta/por IP:
+sMnuFTP         = FTP
+sModify         = Modificar
+sName           = Publicidad FTP Exem.:'Servidor FTP de TYPSoft'
+sNameLnk        = Nome do Link no Direcctorio.
+sNew            = Novo
+sNewUser        = Novo Usuario
+sNewVer         = Nova Versión
+sNHome          = ¿Cál é o Directorio Raiz?
+sNLogin         = ¿Cál é o Novo Login?
+sNoFile         = Sen Arquivo
+sNoHelp         = A Axuda non está Dispoñible.
+sNoNewVer       = Non hai Nova Versión.
+sNoPort         = O porto está sendo usado. Selecciona outro.
+sNoRep          = Selecciona un directorio para poñer un dereito sobre el.
+sNoSelChemin    = Selecciona un directorio.
+sNoTLim         = 0 = Sen Límite de Tempo
+sNoTrans        = Inactivo
+sNoTStart       = Servidor NON arrancado.
+sNoULim         = 0 = Sen Límite de Usuarios
+sNoUser         = Sen Usuarios
+sNPass          = ¿Cal é o password?
+sOnlineHelp     = Axuda Online
+sPass           = Password
+sPasteIP        = Pegar IP no Portapapeis
+sPort           = Configuración do FTP
+sQuit           = Saír
+sRbBuild        = Construir
+sRbNone         = Nada
+sRemove         = Quitar
+sRenDir         = Renomear Directorios
+sRenFile        = Renomear Directorios e Arquivos
+sRepDel         = %S: Directorio Borrado: %S
+sRepNow         = %s: Directorio Actual: %s
+sRestart        = Para aplicar este troco, debes Parar e Iniciar o Servidor.
+sRetrFail       = %S: Descarga Fallida de %S
+sRetrOK         = %S: Arquivo Descargado Correctamente: %S
+sRetrRes        = %S: Reanudando Descarga de: %S A: %S bytes
+sRetrStart      = %S: Dercarga Iniciada de %S
+sRFile          = %S: Renomea Arquivo: %s
+sRun            = Iniciar o Servidor FTP ao Arrancar Windows.
+sSave           = Gardar
+sSerStart       = Servidor Arrancado
+sSerStop        = Servidor Detido
+sServer         = Servidor
+sSetup          = Configuración
+sSetupFTP       = Configuración FTP
+sSetupUser      = Configuración Usuarios
+sShowHelp       = visita http://www.typsoft.com para axuda Online
+sShutDown       = ¿Estás seguro de que queres PECHAR o Servidor FTP TYPSoft ?
+sStart          = Iniciar
+sStop           = Parar
+sStorFail       = %S: Fallo de Subida de %s
+sStorOK         = %s: Arquivo Subido: %s
+sStorStart      = %S: Iniciando Subida de %S
+sStorRes        = %S: Reanudando Subida de: %S A: %S bytes
+sSubDir         = Incluir Sub Directorios
+sSysTray        = Icono de Sistema
+sTempRest       = Temporais Restantes:
+sTimeOutDisc    = Conexión Fora de Tempo Por:
+sTimeoutLimit   = Fora de Tempo: (Min) [Max: 600 min]
+sTooManyUser    = Demasiados Usuarios Conectados con este Login: %S IP: %S
+sTotalDownload  = Total Baixado:
+sTotalUpload    = Total Subido:
+sTransfert      = Tempo de Transferencia:
+sTray           = Iniciar en Icono de Sistema.
+sUMain          = Información de Usuarios
+sUP             = Subir
+sUser           = Usuarios
+sUsername       = Nome de Usuario
+sUSetup         = Configuración de Usuario
+sVersion        = Servidor FTP TYPSoft Versión %s
+sVersion2       = Escrito por Marc Bergeron - TYPSoft - Traducido por Xosé Antón Vicente Rodríguez
+sVirtual        = Amosar Directorio Virtual
+sVirtual2       = ("/C:/Directorio/" = "/")
+sWeb            = Home Page:
+
+Status          = Estado:
+
+sCount          = Colabora
+sCredit         = Créditos
+
+sCount1         = Contar Arquivos por Sesión
+sCount2         = Contar bytes por Sesión
+sCount3         = Contar Arquivos en Tódalas Sesións
+sCount4         = Contar bytes en Tódalas Sesións

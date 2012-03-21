@@ -1,0 +1,193 @@
+//**********************************************************
+// Language File for TYPSoft FTP Server
+// For Version : 0.99.7
+// Language    : Deutsch
+// Author      : Dirk Paehl
+//             : Rudolf Büchner
+// Home Page   : http://www.dpaehl.de
+//             : http://rb-data.de
+// E-Mail      : dpaehl@hotpop.com
+//             : info@rb-data.de
+// Last Modify : June 04, 2002
+//             : September 05, 2002
+//**********************************************************
+
+[LANGFILE]
+sAbort          = bitte wählen Sie einen Benutzer
+sAbortUser      = Abbruch des Transfers
+sAbout          = über
+sAccessDirInv   = das freigegebene Verzeichnis existiert nicht
+sAdd            = hinzufügen
+sAuthFail       = Authentifikations Fehler: Benutzer %s IP: %s
+sAuthFailHD     = Home-Verzeichnis nicht gefunden: Benutzer: %s
+sAuthFailP      = falsches Passwort: Benutzer %s IP: %s
+sBanIP          = IP sperren
+sBrowse         = anzeigen
+sChangeUser     = ändere Benutzername nach:
+sCheckUpdate    = Prüfe auf Update
+sClear          = lösche Verlauf
+sClose          = beenden
+sConnect        = Verbindungszeit
+sConnected      = User %s verbunden
+sConnectTo      = verbunden nach %s.
+sCopyUser       = Benutzer kopieren
+sDate           = Datum zur Log-Datei hinzufügen
+sDel            = löschen
+sDelUser        = Benutzer entfernen
+sDeny           = kein Zugriff
+sDir            = Verzeichnis
+sDirAcc         = Verzeichnis-Zugriff
+sDisable        = deaktiviere Benutzer Account
+sDisableExitMsg = Hinweis beim Beenden deaktivieren
+sDisableNOOP    = deaktivere NOOP
+sDisconnect     = Client %s, %s getrennt
+sDisconnectUser = Benutzer trennen
+sDown           = Download
+sEdit           = Editieren
+sEmail          = Email
+sEncrypt        = Verschlüsselungsmethode
+sEnterMessage   = Datei für die Willkommen-Nachricht
+sExitMessage    = Datei für die Beenden-Nachricht
+sFDel           = %S: Datei gelöscht: %s
+sFile           = &Datei
+sFiles          = Dateien
+sFontInfo       = Schriftart:
+sFontSelect     = Fonts
+sFMake          = %s: Verzeichnis erstellt: %s
+sFTP            = TYPSoft FTP Server
+sFTPPort        = FTP-Port:
+sHelp           = &Hilfe
+sHome           = Root Verzeichnis
+sHomeDirInv     = Das Stammverzeichnis existiert nicht!
+sHostname       = sHostname 
+sIdleTime       = verstrichene Zeit:
+sIDNum          = ID
+sInvalidCarac   = Diese Zeichen sind im Anmeldenamen nicht erlaubt: \/:|*?"<>
+sIP             = Liste der IP-Adressen
+sIPAccess       = IP-Zugriff
+sIPAccept       = erlaubt
+sIPDeny         = nicht erlaubt
+sIPList         = IP-Adressliste für Ihren Computer
+sIPListRes      = IP-Freigabe-/-Sperrliste
+sIPNote         = Klicken Sie auf die IP-Adresse um diese in die Zwischenablage zu kopieren!
+sKick           = Bitte wählen Sie einen Benutzer!
+sLangue         = Sprache
+sLink           = virtueller Link
+sList           = Benutzerliste
+sLog            = automatisch Log-Datei speichern
+sMain           = Haupt
+sMake           = erstellen
+sMaxUser1       = max. Anzahl Benutzer
+sMaxUser2       = je Anmeldenamen:
+sMaxUserIP1     = max. Anzahl gleichzeitiger Benutzer
+sMaxUserIP2     = auf der selben IP-Adresse:
+sMaxSpeed       = maximale Download-Geschwindigkeit (KB/s)
+sMnuFTP         = FTP-Einstellungen
+sModify         = verändern
+sName           = FTP Banner Ex:'TYPSoft FTP-Server'
+sNameLnk        = Name des Links im Verzeichnis
+sNew            = Neu
+sNewUser        = neuer Benutzer
+sNewVer         = neue Version
+sNHome          = Welches ist das Root-Verzeichnis?
+sNLogin         = neuer Benutzer-Name:
+sNoFile         = keine Datei
+sNoHelp         = Hilfe wurde nicht gefunden.
+sNoNewVer       = keine neue Version
+sNoPort         = Port wird schon benutzt. Bitte wählen Sie einen anderen.
+sNoRep          = Um Rechte zu vergeben, müssen Sie erst ein Verzeichnis auswählen.
+sNoSelChemin    = Verzeichnis auswählen
+sNoTLim         = 0 = Kein Zeitlimit
+sNoTrans        = beschäftigt
+sNoTStart       = Server nicht gestartet
+sNoULim         = 0 = kein User-Limit
+sNoUser         = kein(e) Benutzer
+sNPass          = Passwort
+sOnlineHelp     = Online Hilfe
+sPass           = Passwort
+sPasteIP        = kopiere IP-Adresse in die Zwischenablage
+sPort           = FTP-Setup
+sQuit           = been&den
+sRbBuild        = integriert
+sRbNone         = keine
+sRemove         = entfernen
+sRenDir         = Verzeichnis umbenennen
+sRenFile        = Dateien und Verzeichnisse umbenennen
+sRepDel         = %S: Verzeichnis gelöscht: %S
+sRepNow         = %s: Aktuelles Verzeichnis: %s
+sRestart        = Server stoppen und neustarten damit die Änderungen wirksam werden.
+sRetrFail       = %s: Fehlerhafte Übertragung %s
+sRetrOK         = %S: Datei ordnungsgemäß übertragen: %S
+sRetrRes        = %S: Download aufnehmen bei: %S At: %S bytes
+sRetrStart      = %s: Anfang Download %s
+sRFile          = %S: Datei umbenannt: %s
+sRun            = starte FTP-Server beim Systemstart (Windows 95/98 und höher)
+sSave           = speichern
+sSessDown       = Session Download:
+sSessUp         = Session Upload:
+sSerStart       = Server gestartet
+sSerStop        = Server angehalten
+sServer         = &Server
+sSetup          = Setup
+sSetupFTP       = FTP-Setup
+sSetupUser      = Benutzer-Setup
+sShowCommand    = zeige alle Benutzer-Eingaben im Hauptfenster
+sShowHelp       = weitere Informationen siehe: http://www.typsoft.com (Online Hilfe)
+sShutDown       = Sind Sie sicher, dass Sie den TYPSoft FTP-Server herunterfahren möchten?
+sSrvShutDown    = Herunterfahren des Servers
+sStart          = &Starten
+sStop           = Anhal&ten
+sStorFail       = %S: fehlerhafter Upload: %s
+sStorOK         = %s: Datei Upload: %s
+sStorStart      = %s: Anfang Upload %s
+sStorRes        = %S: Upload aufnehmen bei: %S At: %S bytes
+sSubDir         = inklusive Unterverzeichnisse
+sSysTray        = Sys&Tray
+sTempRest       = restliche Zeit:
+sTimeOutDisc    = Verbindungs Time-Out für:
+sTimeoutLimit   = Time-Out: (Min) [Max: 600 min]
+sTooManyUser    = Es sind zuviel Benutzer verbunden: %S IP: %S
+sTotalDownload  = Download gesamt:
+sTotalUpload    = Upload gesamt:
+sTransfert      = Übertragungszeit:
+sTray           = starte in Systray
+sUMain          = Benutzer-Info
+sUP             = Upload
+sUser           = Benutzer
+sUsername       = Name des Benutzers
+sUSetup         = Benutzer-Setup
+sVersion        = TYPSoft FTP Server Version %s
+sVersion2       = Written by Marc Bergeron - TYPSoft
+sVirtual        = Virtual Directory Showing
+sVirtual2       = "/C:/Directory/" = "/"
+sWeb            = Homepage:
+
+Status          = Status:
+
+sCount          = Zähler an
+sCredit         = Guthaben
+
+sCount1         = Anzahl Dateien pro Session
+sCount2         = Anzahl Bytes pro Session
+sCount3         = Anzahl Dateien für alle Sessions
+sCount4         = Anzahl Bytes für alle Sessions
+
+sfrmColor       = Farb-Definition
+sSepTag         = Farben trennen
+sTextTag        = Textfarbe
+sIDTag          = Benutzer-ID-Farbe
+sClientTag      = Benutzer-Farbe
+sIPTag          = IP-Adress-Farbe
+sDateTag        = Ereignis-Farbe
+sTimeTag        = Andere Zeit-Color
+sMiscTag        = Miscellaneous Text Color
+sFileTag        = Datei- und Verzeichnis-Farbe
+sBackTag        = Hintergrund-Text-Farbe
+
+sSound          = Sound
+sSndConnect     = Anmeldesound
+sSndDisconnect  = Abmeldesound
+sSndDownStart   = Sound beim Download-Start
+sSndDownEnd     = Sound beim Download-Ende
+sSndUploadStart = Sound beim Upload-Start
+sSndUploadEnd   = Sound beim Upload-Ende

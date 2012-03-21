@@ -1,0 +1,196 @@
+//**********************************************************
+// Fichier de Langue pour TYPSoft FTP Serveur
+// For Version : 0.99.15
+// Langue      : French
+// Auteur      : Marc Bergeron - TYPSoft
+// Page Web    : http://www.typsoft.com
+// E-Mail      : webmaster@typsoft.com
+// Last Modify : 15 Décembre 2002
+// Revision par : Jean-Claude Gossart
+//                Fabrice Boyer
+//**********************************************************
+
+[LANGFILE]
+sAbort          = Vous devez sélectionner un utilisateur pour arrêter le transfert.
+sAbortUser      = Annuler le transfert
+sAbout          = A Propos
+sAccessDirInv   = Le Répertoire d'accès est invalide.
+sAdd            = &Ajouter
+sAuthFail       = Authentification Incorrecte : Utilisateur %S [%S]
+sAuthFailHD     = Répertoire Racine Non Trouvé : Utilisateur %S
+sAuthFailP      = Mot de Passe Incorrect : Utilisateur %S [%S]
+sBanIP          = Bannir cette adresse IP
+sBrowse         = Parcourir
+sChangeUser     = Changement d’identifiant pour :
+sCheckUpdate    = Vérifier pour la Mise-à-Jour
+sClear          = Effacer l'historique
+sClose          = &Fermer
+sConnect        = Connecté Depuis :
+sConnected      = Utilisateur %S [%S] connecté
+sConnectTo      = Connecté à %S. Collecte du Nom d'Utilisateur.
+sCopyUser       = &Copier Utilisateur
+sDate           = Ajouter la date au journal.
+sDel            = Eff&acer
+sDelUser        = Effacer Utilisateur
+sDeny           = Accès &Interdit
+sDir            = Répertoire
+sDirAcc         = Droi&ts d'accès
+sDisable        = &Désactiver ce compte
+sDisableExitMsg = Désactiver le Message de Confirmation de Sortie
+sDisableNOOP    = Désactiver la commande NOOP
+sDisconnect     = Utilisateur %S [%S] déconnecté
+sDisconnectUser = Déconnecter l'utilisateur
+sDown           = Download
+sEdit           = Editer
+sEmail          = E-mail
+sEncrypt        = Méthode de Chiffrage
+sEnterMessage   = Fichier du message de Bienvenue
+sExitMessage    = Fichier du message de Départ
+sFDel           = %S : Fichier effacé : %S
+sFile           = &Fichier
+sFiles          = Fichiers
+sFontInfo       = Police de caractère :
+sFontName       = Police de caractère
+sFontSelect     = Sélection
+sFontSize       = Taille de la police
+sFMake          = %S : Nouveau Répertoire : %S
+sFTP            = TYPSoft FTP Serveur
+sFTPPort        = Port FTP :
+sHelp           = &Aide
+sHideVersion    = Remplacer la bannière du FTP par votre IP
+sHome           = Répertoire Racine
+sHomeDirInv     = Le Répertoire Racine est invalide.
+sHostname       = Domaine
+sIdleTime       = Temps d'inactivité :
+sIDNum          = ID
+sInvalidCarac   = Le nom d'utilisateur ne peut contenir les caractères suivants : \/:|*?"<>|
+sIP             = IP
+sIPAccess       = Restriction IP
+sIPAccept       = Permettre
+sIPDeny         = Restreindre
+sIPList         = Liste des IP de votre Ordinateur
+sIPListRes      = Liste des IP à Permettre/Restreindre
+sIPNote         = Cliquer sur une IP et pour la copier dans le Presse-Papiers.
+sKick           = Il faut sélectionner un utilisateur pour le déconnecter.
+sLangue         = Langue
+sLink           = Lien Virtuel
+sList           = Liste des Utilisateurs
+sLog            = Sauvegarde automatique des messages. (Fichier Log)
+sMain           = Principale
+sMake           = Créer
+sMaxUser1       = Maximum de connexions
+sMaxUser2       = pour cet identifiant :
+sMaxUserIP1     = Autoriser combien de Clients
+sMaxUserIP2     = simultanés par IP :
+sMaxSpeed       = Vitesse de téléchargement maximum (en kbits/s)
+sMnuFTP         = FTP
+sModify         = &Modifier
+sNameLnk        = Nom du lien dans les répertoires.
+sNew            = Nouveau
+sNewUser        = Nouvel Utilisateur
+sNewVer         = Nouvelle Version
+sNHome          = Quel est le Répertoire Racine ?
+sNLogin         = Quel est le nouveau login ?
+sNoFile         = Pas de fichier
+sNoHelp         = L’aide devrait être bientôt disponible. Désolé !
+sNoNewVer       = Pas de nouvelle version
+sNoPort         = Port %s déjà utilisé. Vous devez en choisir un autre.
+sNoRep          = Vous devez choisir un Répertoire pour pouvoir mettre des droits dessus.
+sNoSelChemin    = Veuillez choisir un répertoire
+sNoTLim         = 0 = Pas de limite de Temps
+sNoTrans        = Pas de transfert
+sNoTStart       = Serveur non démarré.
+sNoULim         = 0 = Pas de Limite de Clients
+sNoUser         = Pas d'utilisateur
+sNPass          = Quel est son mot de passe ?
+sOnlineHelp     = Aide en Ligne
+sPass           = Mot de Passe
+sPasteIP        = Copie l'adresse IP dans le Presse-Papiers
+sPathAlreadInc  = Le chemin que vous voulez ajouter existe déjà.
+sPort           = Setup FTP
+sQuit           = &Quitter
+sRbBuild        = Incorporé
+sRbNone         = Aucune
+sRemove         = Effacer
+sRenDir         = Renommer répertoires
+sRenFile        = Renommer fichiers et répertoires
+sRenUser        = Renommer utilisateur
+sRepDel         = %S : Répertoire Effacé : %S
+sRepNow         = %S : Répertoire en Cours : %S
+sRestart        = Pour valider ce changement, vous devez redémarrer le serveur.
+sRetrFail       = %s : Echec du Téléchargement du Fichier : %s
+sRetrOK         = %S : Fichier Téléchargé : %S
+sRetrRes        = %S : Reprise du Téléchargement de : %S A : %S octets
+sRetrStart      = %S : Début du Téléchargement de : %S
+sRFile          = %S : Fichier Renommé : %S
+sRUser          = Renommer %S à :
+sRun            = Démarrer FTP Serveur au démarrage de Windows
+sSave           = &Enregistrer
+sSessDown       = Session Download:
+sSessUp         = Session Upload:
+sSerStart       = Serveur démarré
+sSerStop        = Serveur arrêté
+sServer         = &Serveur
+sSetup          = &Configuration
+sSetupFTP       = Configuration FTP
+sSetupUser      = Configuration Utilisateur
+sShowCommand    = Afficher toutes les commandes des utilisateurs.
+sShowHelp       = Pour de l'aide, vous pouvez aller voir l'aide en ligne sur http://www.typsoft.com
+sShutDown       = Êtes vous sûr de vouloir fermer TYPSoft FTP Serveur ?
+sSrvShutDown    = Fermeture du Serveur
+sStart          = &Démarrer
+sStop           = &Arrêter
+sStorFail       = %S : Echec de la Réception du Fichier : %S
+sStorOK         = %s : Fichier Recu : %S
+sStorStart      = %S : Début de Réception de %S
+sStorRes        = %S : Résumé de la Réception de: %S A: %S bytes
+sSubDir         = Sous-Répertoire Inclus
+sSysTray        = Barre des Tâches
+sTempRest       = Temps Restant :
+sTimeOutDisc    = Temps limite de connexion atteint par :
+sTimeoutLimit   = Limite de Temps : (Min) [Max: 600 min]
+sTooManyUser    = Trop d’utilisateurs avec cet identifiant : %S [%S]
+sTotalDownload  = Total Downloads :
+sTotalUpload    = Total Uploads :
+sTransfert      = Temps de Transfert :
+sTray           = Démarrer dans la Barre des Tâches.
+sUMain          = Infos Utilisateurs
+sUP             = Upload
+sUser           = Utilisateurs
+sUsername       = Utilisateurs
+sUSetup         = Configuration Utilisateurs
+sVersion        = TYPSoft FTP Serveur Version %s
+sVersion2       = Écrit par Marc Bergeron - TYPSoft
+sVirtual        = Affichage du Répertoire en Mode Virtuel
+sVirtual2       = ("/C:/Repertoire/" = "/")
+sWeb            = Page Web :
+
+Status          = Statut :
+
+sCount          = Calcul sur
+sCredit         = Crédit
+
+sCount1         = Calcul des Fichiers par Session
+sCount2         = Calcul des Octets par Session
+sCount3         = Calcul des Fichiers sur toutes les Sessions
+sCount4         = Calcul des Octets sur toutes les Sessions
+
+sfrmColor       = Définition des Couleurs
+sSepTag         = Séparateurs
+sTextTag        = Texte
+sIDTag          = Numéro de l’utilisateur
+sClientTag      = Identifiant de l’utilisateur
+sIPTag          = Adresse IP
+sDateTag        = Heure des Évenements
+sTimeTag        = Durée des Évenements
+sMiscTag        = Textes Divers
+sFileTag        = Fichiers et Répertoires
+sBackTag        = Couleur de fond
+
+sSound          = Sons d’avertissements
+sSndConnect     = Connexion d’un utilisateur
+sSndDisconnect  = Déconnexion d’un utilisateur
+sSndDownStart   = Début d'un Download
+sSndDownEnd     = Fin d'un Download
+sSndUploadStart = Début d'un Upload
+sSndUploadEnd   = Fin d'un Upload

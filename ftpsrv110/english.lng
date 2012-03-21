@@ -1,0 +1,194 @@
+//**********************************************************
+// Language File for TYPSoft FTP Server
+// For Version : 0.99.15
+// Language    : English
+// Author      : Marc Bergeron - TYPSoft
+// Home Page   : http://www.typsoft.com
+// E-Mail      : webmaster@typsoft.com
+// Last Modify : December 15, 2002
+//**********************************************************
+
+[LANGFILE]
+sAbort          = Please Select a user
+sAbortUser      = Abort Transfer
+sAbout          = About
+sAccessDirInv   = The Access Directory doesn't exists
+sAdd            = Add
+sAuthFail       = Authentification Fail: User %S [%S]
+sAuthFailHD     = Home Directory not found : User %S
+sAuthFailP      = Wrong Password : User %S [%S]
+sBanIP          = Ban this adress IP
+sBrowse         = Browse
+sChangeUser     = Change Username for :
+sCheckUpdate    = Check for Update
+sClear          = Clear History
+sClose          = Close
+sConnect        = Connected Time
+sConnected      = User %s [%S] Connected
+sConnectTo      = Connect to %S. Get Username.
+sCopyUser       = Copy User
+sDate           = Add date to Log.
+sDel            = Delete
+sDelUser        = Delete User
+sDeny           = No Access
+sDir            = Directory
+sDirAcc         = Directory Access
+sDisable        = Disable User Account
+sDisableExitMsg = Disable Message on Exit
+sDisableNOOP    = Disable NOOP
+sDisconnect     = Client %S [%S] Disconnected
+sDisconnectUser = Disconnect User
+sDown           = Download
+sEdit           = Edit
+sEmail          = Email
+sEncrypt        = Encryption Method
+sEnterMessage   = File for Welcome Message
+sExitMessage    = File for Goodbye Message
+sFDel           = %S : File Delete : %S
+sFile           = &File
+sFiles          = Files
+sFontInfo       = Font Info
+sFontName       = Font Name
+sFontSelect     = Font Select
+sFontSize       = Font Size
+sFMake          = %S : Create Directory : %S
+sFTP            = TYPSoft FTP Server
+sFTPPort        = FTP Port :
+sHelp           = &Help
+sHideVersion    = Replace FTP Banner with your IP
+sHome           = Root Directory
+sHomeDirInv     = The Home Directory doesn't exists
+sHostname       = Host
+sIdleTime       = Idle Time:
+sIDNum          = ID
+sInvalidCarac   = The Login can't have this character: \/:|*?"<>
+sIP             = IP
+sIPAccess       = IP Restriction
+sIPAccept       = Allow
+sIPDeny         = Deny
+sIPList         = List of IP for your Computer
+sIPListRes      = List of IP to Allow/Block
+sIPNote         = Click on an IP and will copy it in the clipboard.
+sKick           = Please Select an user
+sLangue         = Language
+sLink           = Virtual Link
+sList           = List of Users
+sLog            = Automatic Save Log.
+sMain           = Main
+sMake           = Create
+sMaxUser1       = Max. of connection
+sMaxUser2       = for this user :
+sMaxUserIP1     = Max. of simultaneous
+sMaxUserIP2     = user per IP :
+sMaxSpeed       = Max. Download Speed (in K/S)
+sMnuFTP         = FTP
+sModify         = Modify
+sNameLnk        = Name of the link in directory.
+sNew            = New
+sNewUser        = New User
+sNewVer         = New Version
+sNHome          = What is the Root Directory ?
+sNLogin         = What is the new login ?
+sNoFile         = No File
+sNoHelp         = Help is not ready.
+sNoNewVer       = No New Version
+sNoPort         = Port already in use. Choose another one.
+sNoRep          = You must choose a Directory to put a Rigth on it.
+sNoSelChemin    = Please Choose a Directory
+sNoTLim         = 0 = No Time Limit
+sNoTrans        = Idle
+sNoTStart       = Server not started.
+sNoULim         = 0 = No User Limit
+sNoUser         = No Users
+sNPass          = What the password?
+sOnlineHelp     = Online Help
+sPass           = Password
+sPasteIP        = Paste IP in Clipboard
+sPathAlreadInc  = The path you try to add is already added
+sPort           = FTP Setup
+sQuit           = E&xit
+sRbBuild        = Build in
+sRbNone         = None
+sRemove         = Remove
+sRenDir         = Rename directories
+sRenFile        = Rename files and directories
+sRenUser        = Rename User
+sRepDel         = %S : Directory Deleted : %S
+sRepNow         = %S : Current Directory : %s
+sRestart        = To apply this change, you must restart the server.
+sRetrFail       = %S : Download Fail of %S
+sRetrOK         = %S : File Downloaded : %S
+sRetrRes        = %S : Download, Resume of : %S At: %S bytes
+sRetrStart      = %S : Start Download of %S
+sRFile          = %S : File Rename : %s
+sRUser          = Rename %S to :
+sRun            = Launch FTP Server on Windows Startup.
+sSave           = Save
+sSessDown       = Session Download:
+sSessUp         = Session Upload:
+sSerStart       = Server Started
+sSerStop        = Server Stoped
+sServer         = &Server
+sSetup          = Setup
+sSetupFTP       = FTP Setup
+sSetupUser      = User Setup
+sShowCommand    = Show all users commands in Main window.
+sShowHelp       = For help, you can go see to http://www.typsoft.com for Online Help
+sShutDown       = Are you sure you want to shutdown TYPSoft FTP Server?
+sSrvShutDown    = Shutdown of the Server
+sStart          = &Start
+sStop           = S&top
+sStorFail       = %S : Upload Fail of %S
+sStorOK         = %s : File Uploaded : %S
+sStorStart      = %S : Start Upload of %S
+sStorRes        = %S : Upload, Resume of : %S at : %S bytes
+sSubDir         = Sub Directory Include
+sSysTray        = Sys&Tray
+sTempRest       = Time Left:
+sTimeOutDisc    = Connection Time-Out For:
+sTimeoutLimit   = Time-Out: (Min) [Max: 600 min]
+sTooManyUser    = Too Many User Connected of this Login : %S [%S]
+sTotalDownload  = Total Download :
+sTotalUpload    = Total Upload :
+sTransfert      = Transfer Time :
+sTray           = Start in Systray.
+sUMain          = Users Info
+sUP             = Upload
+sUser           = Users
+sUsername       = Username
+sUSetup         = User Setup
+sVersion        = TYPSoft FTP Server Version %s
+sVersion2       = Written by Marc Bergeron - TYPSoft
+sVirtual        = Virtual Directory Showing
+sVirtual2       = ("/C:/Directory/" = "/")
+sWeb            = Home Page :
+
+Status          = Status:
+
+sCount          = Count On
+sCredit         = Credit
+
+sCount1         = Count files per Session
+sCount2         = Count bytes per Session
+sCount3         = Count files on all Sessions
+sCount4         = Count bytes on all Sessions
+
+sfrmColor       = Color Definition
+sSepTag         = Separator
+sTextTag        = Text
+sIDTag          = User ID
+sClientTag      = Username
+sIPTag          = IP
+sDateTag        = Event Time
+sTimeTag        = Other Time
+sMiscTag        = Miscellaneous Text
+sFileTag        = File and Directory
+sBackTag        = Background Text
+
+sSound          = Warning Sound
+sSndConnect     = When a user connect
+sSndDisconnect  = When a user disconnect
+sSndDownStart   = When a Download start
+sSndDownEnd     = When a Download end
+sSndUploadStart = When a Upload start
+sSndUploadEnd   = When a Upload end

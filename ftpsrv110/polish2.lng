@@ -1,0 +1,191 @@
+//**********************************************************
+// Language File for TYPSoft FTP Server
+// For Version : 1.08
+// Language    : Polish
+// Author      : Maciej Hamerski
+// Home Page   : 
+// E-Mail      : monsun@polbox.com
+// Last Modify :  12 of 8TH, 2003
+//**********************************************************
+
+[LANGFILE]
+sAbort          = Proszê wybraæ u¿ytkownika
+sAbortUser      = Przerwij œci¹ganie
+sAbout          = O Programie
+sAccessDirInv   = Katalog dostêpu nie istnieje
+sAdd            = Dodaj
+sAuthFail       = B³¹d autoryzacji: U¿ytkownik %S [%S]
+sAuthFailHD     = G³ówny katalog nieznaleziony : Konto %S
+sAuthFailP      = Z³e has³o : Konto %S [%S]
+sBanIP          = Zabanuj ten IP
+sBrowse         = Wyœwietl
+sChangeUser     = Zmieñ nazwê konta na :
+sCheckUpdate    = SprawdŸ now¹ wersjê
+sClear          = Czyszczenie historii
+sClose          = Zamknij
+sConnect        = Czas po³¹czenia
+sConnected      = U¿ytkownik %s [%S] Po³¹czony
+sConnectTo      = £¹cze z %S. Pobierz nazwe u¿ytkownika.
+sCopyUser       = Kopiuj konto
+sDate           = Dodaj datê do LOG-a.
+sDel            = Usuñ
+sDelUser        = Usuñ Konto
+sDeny           = Brak dostêpu
+sDir            = Katalog
+sDirAcc         = Katalog dostêpu
+sDisable        = Wy³¹cz konto
+sDisableExitMsg = Wy³¹cz wyœwietlanie wiadomoœci podczas roz³¹czania.
+sDisableNOOP    = Wy³¹cz NOOP
+sDisconnect     = U¿ytkownik %S [%S] Roz³¹czony
+sDisconnectUser = Roz³¹cz u¿ytkownika
+sDown           = Pobieranie
+sEdit           = Edytuj
+sEmail          = Email
+sEncrypt        = Metoda kodowania
+sEnterMessage   = Plik powitalny
+sExitMessage    = Plik po¿egnalny
+sFDel           = %S : Usuñ plik : %S
+sFile           = &Plik
+sFiles          = Pliki
+sFontInfo       = Ustawienia czcionki
+sFontSelect     = Zmiana
+sFMake          = %S : Utwórz katalog : %S
+sFTP            = TYPSoft FTP Server
+sFTPPort        = Port FTP :
+sHelp           = &Pomoc
+sHome           = G³ówny katalog
+sHomeDirInv     = G³ówny katalog jest niedostêpny
+sHostname       = Host
+sIdleTime       = Czas bezczynnoœci:
+sIDNum          = ID
+sInvalidCarac   = Login nie mo¿e zawieraæ znaków: \/:|*?"<>
+sIP             = IP
+sIPAccess       = Regu³y IP
+sIPAccept       = Dostêp
+sIPDeny         = Blokada
+sIPList         = Lista IP twojego komputera
+sIPListRes      = Lista IP z dostêpem/z blokad¹
+sIPNote         = Zaznacz IP, który zostanie skopiowany do schowka.
+sKick           = Wybierz u¿ytkownika
+sLangue         = Jêzyk
+sLink           = Wirtualny link
+sList           = Lista dostêpnych kont
+sLog            = Automatyczny zapis do LOG-a.
+sMain           = Log
+sMake           = Utwórz
+sMaxUser1       = Max. iloœæ po³¹czeñ
+sMaxUser2       = dla konta :
+sMaxUserIP1     = Max. iloœæ po³¹czeñ
+sMaxUserIP2     = dla IP :
+sMaxSpeed       = Max. prêdkoœæ pobierania (in K/S)
+sMnuFTP         = FTP
+sModify         = Zmieñ
+sNameLnk        = Nazwa skrótu w katalogu.
+sNew            = Nowy
+sNewUser        = Nowe konto
+sNewVer         = Nowa wersja
+sNHome          = Jaki jest g³ówny katalog ?
+sNLogin         = Jaki jest nowy LOGIN ?
+sNoFile         = Brak pliku
+sNoHelp         = Pomoc jest niedostêpna.
+sNoNewVer       = Nie ma nowej wersji.
+sNoPort         = Ten port jest juz u¿ywany. Zmieñ na inny.
+sNoRep          = Musisz wybraæ katalog do wrzucania.
+sNoSelChemin    = Proszê zmieniæ katalog
+sNoTLim         = 0 = Brak limitu czasu
+sNoTrans        = Bezczynny
+sNoTStart       = Serwer zamkniêty.
+sNoULim         = 0 = Brak limitu u¿ytkowników
+sNoUser         = Brak po³¹czeñ
+sNPass          = Jakie jest has³o?
+sOnlineHelp     = Pomoc online
+sPass           = Has³o
+sPasteIP        = Skopiuj IP do schowka
+sPathAlreadInc  = Œcie¿ka, która próbujesz dodaæ, jest ju¿ dodana
+sPort           = Konfiguracja FTP
+sQuit           = Wy&jœcie
+sRbBuild        = Wbudowany
+sRbNone         = Anuluj
+sRemove         = Usuwanie
+sRenDir         = Usuñ katalogi
+sRenFile        = Zmiana nazw plików i katalogów
+sRenUser        = Zmieñ nazwê konta
+sRepDel         = %S : Katalog skasowany : %S
+sRepNow         = %S : Bie¿¹cy katalog : %s
+sRestart        = Aby zastosowaæ zmianê portu musisz zrestartowaæ serwer.
+sRetrFail       = %S : Pobieranie PRZERWANE z %S
+sRetrOK         = %S : Plik pobrany : %S
+sRetrRes        = %S : Œci¹ganie, Iloœæ : %S z: %S bajtów
+sRetrStart      = %S : ROZPOCZÊTO pobieranie %S
+sRFile          = %S : Zmiana nazwy pliku : %s
+sRUser          = Zmieñ %S na :
+sRun            = Uruchom FTP Server przy starcie Windows.
+sSave           = Zapisz
+sSessDown       = Rozmiar sesji pobrañ:
+sSessUp         = Rozmiar sesii wrzutów:
+sSerStart       = Serwer START
+sSerStop        = Serwer STOP
+sServer         = &Serwer
+sSetup          = Konfiguracja
+sSetupFTP       = Konfiguracja FTP
+sSetupUser      = Konfiguracja kont
+sShowCommand    = Poka¿ komendy u¿ytkownika w g³ównym oknie (LOG).
+sShowHelp       = Pomoc dostêpna jest na stronie http://www.typsoft.com
+sShutDown       = jesteœ pewien, ¿e chcesz wy³¹czyæ TYPSoft FTP Server?
+sSrvShutDown    = Wy³¹cz Server.
+sStart          = &Start
+sStop           = S&top
+sStorFail       = %S : Zerwanie wrzutu przy %S
+sStorOK         = %s : Plik wrzucany : %S
+sStorStart      = %S : Start wrzut przy %S
+sStorRes        = %S : Wysy³anie, Iloœæ : %S z : %S bajtów
+sSubDir         = Dostêpne podkatalogi
+sSysTray        = Sys&Tray
+sTempRest       = Pozosta³y czas:
+sTimeOutDisc    = Czas po³¹czenia sie skoñczy³ dla:
+sTimeoutLimit   = Czas bezczynnoœci: (Min) [Max: 600 min]
+sTooManyUser    = Za du¿o po³¹czeñ na Login : %S [%S]
+sTotalDownload  = Rozmiar pobrañ :
+sTotalUpload    = Rozmiar wrzutów :
+sTransfert      = Czas pobierania :
+sTray           = Uruchom w Tray'u.
+sUMain          = Informacje o po³¹czeniach
+sUP             = Wrzucanie
+sUser           = Konta
+sUsername       = Nazwa
+sUSetup         = Konfiguracja u¿ytkownika
+sVersion        = TYPSoft FTP Server. Wersja %s
+sVersion2       = Autor: Marc Bergeron - TYPSoft
+sVirtual        = Poka¿ œcie¿kê wirtualn¹
+sVirtual2       = ("/C:/Directory/" = "/")
+sWeb            = Strona domowa :
+
+Status          = Stan:
+
+sCount          = Zliczanie w³¹czone
+sCredit         = Kredyt
+
+sCount1         = Zlicznie plików w sesji
+sCount2         = Zliczanie bajtów w sesji
+sCount3         = Zlicznie plików we wszystkich sesjach
+sCount4         = Zlicznie bajtów we wszystkich sesjach
+
+sfrmColor       = Kolory
+sSepTag         = Separator
+sTextTag        = Tekst
+sIDTag          = ID u¿ytkownika
+sClientTag      = Nazwa U¿ytkownika
+sIPTag          = IP
+sDateTag        = Czas zdarzenia
+sTimeTag        = Inny czas
+sMiscTag        = Inny tekst
+sFileTag        = Pliki i katalogi
+sBackTag        = T³o tekstu
+
+sSound          = DŸwiêki
+sSndConnect     = U¿ytkownik po³¹czony
+sSndDisconnect  = U¿ytkownik roz³¹czony
+sSndDownStart   = Rozpoczêto œci¹ganie
+sSndDownEnd     = Zakoñczono œci¹ganie
+sSndUploadStart = Rozpoczêto wrzucanie
+sSndUploadEnd   = Zakoñczono wrzucanie

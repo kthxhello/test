@@ -1,0 +1,192 @@
+//**********************************************************
+// Language File for TYPSoft FTP Server
+// For Version : 1.00
+// Language    : Czech
+// Author      : Quip
+//               Miroslav Lachman
+// Home Page   : http://www.quip.cz
+// E-Mail      : quip@quip.cz
+// Last Modify : January 11, 2003 
+//**********************************************************
+
+[LANGFILE]
+sAbort          = Prosím vyberte uživatele
+sAbortUser      = Zrušit pøenos
+sAbout          = O aplikaci
+sAccessDirInv   = Zvolený aresáø neexistuje
+sAdd            = Pøidat
+sAuthFail       = Autentifikace selhala: Uživatel %s IP: %s
+sAuthFailHD     = Domácí adresáø nenalezen: Uživatel: %s
+sAuthFailP      = Špatné heslo: Uživatel %s IP: %s
+sBanIP          = Ban IP
+sBrowse         = Prohlížet
+sChangeUser     = Zmìnit uživatelské jméno pro:
+sCheckUpdate    = Zkontrolovat Update
+sClear          = Smazat historii
+sClose          = Zavøít
+sConnect        = Èas pøipojení
+sConnected      = Uživatel %s pøipojen
+sConnectTo      = Pøipojení k %s. Get Username.
+sCopyUser       = Zkopírovat uživ.
+sDate           = Pøidat datum do Logu.
+sDel            = Odstranit
+sDelUser        = Smazat uživatele
+sDeny           = Pøístup zamítnut
+sDir            = Adresáø
+sDirAcc         = Adresáøový pøístup
+sDisable        = Vypnout uživatelský úèet
+sDisableExitMsg = Nezobrazovat zprávu pøi ukonèení
+sDisableNOOP    = Zakázat NOOP
+sDisconnect     = Klient %s, %s odpojen
+sDisconnectUser = Odpojit uživatele
+sDown           = Download
+sEdit           = Upravit
+sEmail          = Email
+sEncrypt        = Metoda enkryptování
+sEnterMessage   = Soubor pro uvítací zprávu
+sExitMessage    = Soubor pro ukonèovací zprávu
+sFDel           = %S: Soubor smazán: %S
+sFile           = &Soubor
+sFiles          = Soubory
+sFontInfo       = Info o písma
+sFontName       = Jméno písma
+sFontSelect     = Výbìr písma
+sFontSize       = Velikost písma
+sFMake          = %S: Vytvorit adresáø: %S
+sFTP            = TYPSoft FTP Server
+sFTPPort        = FTP Port:
+sHelp           = &Nápovìda
+sHideVersion    = Nahradit FTP banner IP adresou serveru
+sHome           = Root adresáø
+sHomeDirInv     = The Domácí adresáø neexistuje
+sHost           = Host
+sIdleTime       = Èas neèinnosti:
+sIDNum          = ID
+sInvalidCarac   = Login nemùže obsahovat tyto znaky: \/:|*?"<>
+sIP             = IP
+sIPAccess       = IP Restrikce
+sIPAccept       = Povolení
+sIPDeny         = Zákaz
+sIPList         = Seznam IP z vašeho poèítaèe
+sIPListRes      = Seznam IP pro Povolení/Blokování
+sIPNote         = Kliknìte na IP a zkopírujte ji do clipboardu.
+sKick           = Prosím vyberte uživatele
+sLangue         = Jazyk
+sLink           = Virtuální link
+sList           = Seznam uživatelù
+sLog            = Automatické ukládání Logu.
+sMain           = Hlavní
+sMake           = Vytvoøit
+sMaxUser1       = Max. uživatelù
+sMaxUser2       = na úèet:
+sMaxUserIP1     = Max. souèasnì uživatelù
+sMaxUserIP2     = na úèet/na IP:
+sMaxSpeed       = Max. rychlost downloadu (v K/s)
+sMnuFTP         = FTP
+sModify         = Upravit
+sName           = FTP Banner Ex:'FTP Server of TYPSoft'
+sNameLnk        = Jméno odkazu v adresáøi.
+sNew            = Nový
+sNewUser        = Nový uživatel
+sNewVer         = Nová verze
+sNHome          = Jaky nový root adresáø?
+sNLogin         = Jaké nové uživatelské jméno?
+sNoFile         = Žádný soubor
+sNoHelp         = Nápovìda není pøipravena.
+sNoNewVer       = Není nová verze
+sNoPort         = Port se již používá. Zvolte jiný.
+sNoRep          = Musíte vybrat adresáø, abyste mohli nastavit jeho práva.
+sNoSelChemin    = Prosím vyberte adresáø
+sNoTLim         = 0 = Bez èasového limitu
+sNoTrans        = neaktivní
+sNoTStart       = Server nebìží.
+sNoULim         = 0 = Bez limitu
+sNoUser         = Žádní uživatelé
+sNPass          = Co heslo?
+sOnlineHelp     = Online nápovìda
+sPass           = Heslo
+sPasteIP        = Vložte IP do clipboardu
+sPort           = nastavení FTP
+sQuit           = Ukonèit
+sRbBuild        = Vestavìno
+sRbNone         = není
+sRemove         = Odstranit
+sRenDir         = Pøejmenovat adresáøe
+sRenFile        = Pøejmenovat soubory a adresáøe
+sRepDel         = %S: Adresáø smazán: %S
+sRepNow         = %s: Souèasný adresáø: %s
+sRestart        = Pro aplikování zmìn musíte zastavit a spustit server.
+sRetrFail       = %S: Download selhal %S
+sRetrOK         = %S: Soubor stažen OK: %S
+sRetrRes        = %S: Download, obnovení: %S na: %S bajtech
+sRetrStart      = %S: Spuštìn Download %S
+sRFile          = %S: Pøejmenování souboru: %s
+sRun            = Spustit FTP Server pøi startu Windows.
+sSave           = Uložit
+sSessDown       = Session Download:
+sSessUp         = Session Upload:
+sSerStart       = Server spuštìn
+sSerStop        = Server zastaven
+sServer         = &Server
+sSetup          = Nastaveni
+sSetupFTP       = Nastaveni FTP
+sSetupUser      = Nastavení uživatelù
+sShowCommand    = Ukázat všechny uživatelské pøíkazy v hlavním oknì.
+sShowHelp       = Pro online nápovìdu navštivte http://www.typsoft.com
+sShutDown       = Opravdu chcete ukonèit TYPSoft FTP Server?
+sStart          = Spustit
+sStop           = Zastavit
+sStorFail       = %S: Upload selhal na %s
+sStorOK         = %s: Soubor uploadnut: %s
+sStorStart      = %S: Start uploadu %S
+sStorRes        = %S: Upload, resume: %S na: %S bajtech
+sSubDir         = Include podadresáøe
+sSysTray        = Sys&Tray
+sTempRest       = Zbývající èas:
+sTimeOutDisc    = Time-Out pøipojení pro:
+sTimeoutLimit   = Time-Out: (Min) [Max: 600 min]
+sTooManyUser    = Pøipojeno pøíliš mnoho uživatelù s tímto loginem: %S IP: %S
+sTotalDownload  = Celkem Download:
+sTotalUpload    = Celkem Upload:
+sTransfert      = Èas pøenosu:
+sTray           = Spustit v Systrayi.
+sUMain          = Uživatelské info
+sUP             = Upload
+sUser           = Uživatelé
+sUsername       = Uživatelské jméno
+sUSetup         = Nastavení uživatelù
+sVersion        = TYPSoft FTP Server Verze %s
+sVersion2       = napsal Marc Bergeron - TYPSoft
+sVirtual        = Virtuální zobrazení adresáøe
+sVirtual2       = ("/C:/adresáø/" = "/")
+sWeb            = Home page:
+
+Status          = Status:
+
+sCount          = Poèet
+sCredit         = Kredit
+
+sCount1         = Poèet souborù v session
+sCount2         = Poèet bajtù v session
+sCount3         = Poèet souborù ve všech sessions
+sCount4         = Poèet bajtù ve všech sessions
+
+sfrmColor       = Definice barev
+sSepTag         = Barva oddìlovaèe
+sTextTag        = Barva textu
+sIDTag          = Barva ID uživatele
+sClientTag      = Barva uživ. jména
+sIPTag          = Barva IP
+sDateTag        = Barva èasu události
+sTimeTag        = Barva ostatního èasu
+sMiscTag        = Barva rùzného textu
+sFileTag        = Barva souborù a adresáøù
+sBackTag        = Barva pozadí
+
+sSound          = Zvuky
+sSndConnect     = Zvuk pøi pøipojení uživatele
+sSndDisconnect  = Zvuk pøi odpojení uživatele
+sSndDownStart   = Zvuk pøi startu downloadu
+sSndDownEnd     = Zvuk pøi ukonèení downloadu
+sSndUploadStart = Zvuk pøi startu uploadu
+sSndUploadEnd   = Zvuk pøi ukonèení uploadu 

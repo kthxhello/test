@@ -1,0 +1,184 @@
+//*******************************************************************
+// Language File for TYPSoft FTP Server
+// For Version   : 0.99.6
+// Language      : Dutch
+// Author        : Mark Vis - just a guy
+// Age of Author : 14 Years
+// Nickname      : Mr. Fish
+// Home Page     : Don't have :-)
+// E-Mail        : markvisje@hotmail.com
+// Last Modified : July 25, 2002
+// Comments      : If there's a wrong translation in this file,
+//                 please send me an email...
+//********************************************************************
+
+[LANGFILE]
+sAbort          = Je moet een gebruiker selecteren
+sAbortUser      = Annuleer overdracht
+sAbout          = Over
+sAccessDirInv   = De toegangs Directory bestaat niet
+sAdd            = Toevoegen
+sAuthFail       = Authentificatie gefaald: Gebruiker %s IP: %s
+sAuthFailHD     = Thuis Directory niet gevonden: User: %s
+sAuthFailP      = Verkeerd Password: Gebruikers %s IP: %s
+sBanIP          = Ban IP
+sBrowse         = Browse
+sChangeUser     = Verander gebruikersnaam voor:
+sCheckUpdate    = Controleer voor Update
+sClear          = Wis Geschiedenis
+sClose          = Sluiten
+sConnect        = Verbonden tijd:
+sConnected      = Gebruiker %s verbonden
+sConnectTo      = Verbind met %s. Gebruikersnaam opvragen.
+sCopyUser       = Kopieer gebruiker
+sDate           = Voeg datum toe aan Log.
+sDel            = Verwijder
+sDelUser        = Verwijder gebruiker
+sDeny           = Geen toegang
+sDir            = Directory
+sDirAcc         = Directory Toegang
+sDisable        = Maak gebruikers account onbruikbaar
+sDisableExitMsg = Geen bericht bij afsluiten
+sDisableNOOP    = Disable NOOP
+sDisconnect     = Gebruiker %s, %s heeft de verbinding verbroken
+sDisconnectUser = Verbreek verbinding met gebruiker
+sDown           = Download
+sEdit           = Edit
+sEmail          = Email
+sEncrypt        = Encryptie Methode
+sEnterMessage   = Bestand voor welkomst boodschap
+sExitMessage    = Bestand voor Goodbye-boodschap
+sFDel           = %S: File Delete: %S
+sFile           = &Bestand
+sFiles          = Bestanden
+sFontInfo       = Lettertype Info
+sFontSelect     = Lettertype...
+sFMake          = %S: Maak Directory: %S
+sFTP            = TYPSoft FTP Server
+sFTPPort        = FTP Poort:
+sHelp           = &Help
+sHome           = Thuis Directory
+sHomeDirInv     = De thuis-directory bestaat niet
+sHost           = Host
+sIdleTime       = Nietsdoende Tijd:
+sIDNum          = ID
+sInvalidCarac   = De login kan deze tekens niet bevatten: \/:|*?"<>
+sIP             = IP
+sIPAccess       = IP Restrictie
+sIPAccept       = Toestaan
+sIPDeny         = Weigeren
+sIPList         = Lijst van IP-adressen van jouw computer
+sIPListRes      = Lijst van IP's om Toe te staan of te weigeren.
+sIPNote         = Klik op een IP en het wordt naar het klembord gekopieerd.
+sKick           = Je moet een gebruiker selecteren!
+sLangue         = Taal
+sLink           = Virtuele Link
+sList           = Lijst van gebruikers
+sLog            = Automatisch Log opslaan.
+sMain           = Geschiedenis
+sMake           = Maak
+sMaxUser1       = Max. aantal gebruikers
+sMaxUser2       = per account:
+sMaxUserIP1     = Max. van gelijktijdige users
+sMaxUserIP2     = per account/per IP:
+sMaxSpeed       = Max. Download Snelheid (in K/S)
+sMnuFTP         = FTP
+sModify         = Verander
+sName           = FTP Banner Ex:'FTP Server of TYPSoft'
+sNameLnk        = Naam van de Link in Directory.
+sNew            = Nieuw
+sNewUser        = Nieuwe User
+sNewVer         = Nieuwe Versie
+sNHome          = Wat is de Thuis-Directory?
+sNLogin         = Wat is de nieuwe login?
+sNoFile         = Geen bestand
+sNoHelp         = Help is niet klaar.
+sNoNewVer       = Geen nieuwe Versie
+sNoPort         = Poort is al in gebruik. Kies een andere.
+sNoRep          = Je moet een directory kiezen om het recht aan toe te kennen.
+sNoSelChemin    = Kies een directory
+sNoTLim         = 0 = Geen tijds limiet
+sNoTrans        = Niet bezig
+sNoTStart       = Server niet gestart.
+sNoULim         = 0 = Geen user limiet
+sNoUser         = Geen Users
+sNPass          = Wat is het password?
+sOnlineHelp     = Online Help
+sPass           = Password
+sPasteIP        = Plak het IP in Klembord
+sPort           = FTP Setup
+sQuit           = E&xit
+sRbBuild        = Ingebouwd
+sRbNone         = Geen
+sRemove         = Verwijderen
+sRenDir         = Hernoem Directories
+sRenFile        = Hernoem Bestanden and Directories
+sRepDel         = %S: Directory Verwijderd: %S
+sRepNow         = %s: Huidige Directory: %s
+sRestart        = Om deze verandering toe te passen, moet je de server stoppen en weer starten.
+sRetrFail       = %S: Download gefaald van %S
+sRetrOK         = %S: File Downloaded OK: %S
+sRetrRes        = %S: Download, Verder gaan van: %S op: %S bytes
+sRetrStart      = %S: Start Download van %S
+sRFile          = %S: File hernoemen: %s
+sRun            = Start FTP Server met Windows.
+sSave           = Opslaan
+sSessDown       = Deze Sessie Download:
+sSessUp         = Deze Sessie Upload:
+sSerStart       = Server gestart
+sSerStop        = Server gestopt
+sServer         = &Server
+sSetup          = Setup
+sSetupFTP       = FTP Setup
+sSetupUser      = Gebruikers Setup
+sShowCommand    = Laat alle gebruiker-commando's zien bij Geschiedenis.
+sShowHelp       = Je kunt naar http://www.typsoft.com gaan voor Online Help
+sShutDown       = Weet je zeker dat je TYPSoft FTP Server wilt afsluiten?
+sStart          = &Start
+sStop           = S&top
+sStorFail       = %S: Upload gefaald van %s
+sStorOK         = %s: File ge-upload: %s
+sStorStart      = %S: Start upload van %S
+sStorRes        = %S: Upload, doorgaan van: %S op: %S bytes
+sSubDir         = Sub Directory inbegrepen
+sSysTray        = Sys&Tray
+sTempRest       = Overgebleven tijd:
+sTimeOutDisc    = Connectie Time-Out voor:
+sTimeoutLimit   = Time-Out: (Min) [Max: 600 min]
+sTooManyUser    = Teveel gebruikers verbonden met deze loginnaam: %S IP: %S
+sTotalDownload  = Totaal gedownload:
+sTotalUpload    = Totaal ge-upload:
+sTransfert      = Overbrengende Tijd:
+sTray           = Start in Taakbalk.
+sUMain          = User Info
+sUP             = Upload
+sUser           = Users
+sUsername       = Gebruikersnaam
+sUSetup         = Gebruikers Setup
+sVersion        = TYPSoft FTP Server Version %s
+sVersion2       = Gemaakt door Marc Bergeron - TYPSoft
+sVirtual        = Virtuele Directory Laten zien
+sVirtual2       = ("/C:/Directory/" = "/")
+sWeb            = Home Page:
+
+Status          = Status:
+
+sCount          = Tel verder
+sCredit         = Credit
+
+sCount1         = Tel files per Sessie
+sCount2         = Tel bytes per Sessie
+sCount3         = Tel files op alle Sessies
+sCount4         = Tel bytes op alle Sessies
+
+sfrmColor       = Kleur Definitie
+sSepTag         = Afscheidende kleur
+sTextTag        = Tekst kleur
+sIDTag          = Gebruikers ID kleur
+sClientTag      = Gebruikersnaam kleur
+sIPTag          = IP kleur
+sDateTag        = Gebeurtenis-tijd kleur
+sTimeTag        = Andere tijd kleur
+sMiscTag        = Veelzijdige tekst kleur
+sFileTag        = Bestands en Directory kleur
+sBackTag        = Achtergrond tekst kleur

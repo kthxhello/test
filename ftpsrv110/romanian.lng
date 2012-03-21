@@ -1,0 +1,194 @@
+//**********************************************************
+// Language File for TYPSoft FTP Server
+// For Version : 1.08
+// Language    : Romanian
+// Author      : 
+// Home Page   : 
+// E-Mail      : 
+// Last Modify : 
+//**********************************************************
+
+[LANGFILE]
+sAbort          = Va rog sa selectati un utilizator
+sAbortUser      = Transfer renuntat
+sAbout          = Despre
+sAccessDirInv   = Nu exista acces la nici un director
+sAdd            = Adauga
+sAuthFail       = Logare nereusita: Utilizator %S [%S]
+sAuthFailHD     = Nu exista director index : Utilizator %S
+sAuthFailP      = Parola gresita : Utilizator %S [%S]
+sBanIP          = Blocheaza aceasta adresa IP
+sBrowse         = Rasfoieste
+sChangeUser     = Schimba utilizatorul pentru :
+sCheckUpdate    = Cauta actualizare
+sClear          = Sterge loguri
+sClose          = Inchide
+sConnect        = Timp conectat
+sConnected      = Utilizator %s [%S] conectat
+sConnectTo      = Conectare la %S. Spune-ti nume de utilizator.
+sCopyUser       = Copiaza utilizator
+sDate           = Adauga data in loguri.
+sDel            = Sterge
+sDelUser        = Sterge utilizator
+sDeny           = Fara acces
+sDir            = Director
+sDirAcc         = Acces la director
+sDisable        = Opreste temporar contul
+sDisableExitMsg = Opreste mesajul la iesire
+sDisableNOOP    = Opreste NOOP
+sDisconnect     = Client %S [%S] Deconectat
+sDisconnectUser = Deconecteaza utilizator
+sDown           = Descarca
+sEdit           = Modifica
+sEmail          = Email
+sEncrypt        = Metoda criptare
+sEnterMessage   = Fisier pentru mesaj de intampinare
+sExitMessage    = Fisier pentru mesaj plecare
+sFDel           = %S : Stergere fisier : %S
+sFile           = &Fisier
+sFiles          = Fisiere
+sFontInfo       = Informatii fonturi
+sFontName       = Nume font
+sFontSelect     = Selectare font
+sFontSize       = Marime font
+sFMake          = %S : Creaza director : %S
+sFTP            = TYPSoft FTP Server
+sFTPPort        = Port FTP:
+sHelp           = &Ajutor
+sHideVersion    = Modifica mesajul de conectare cu IP-ul
+sHome           = Director principal
+sHomeDirInv     = Directorul principal nu exista
+sHostname       = Gazda
+sIdleTime       = Timp nemiscat:
+sIDNum          = ID
+sInvalidCarac   = Termenii logarii nu pot contine caracterele: \/:|*?"<>
+sIP             = IP
+sIPAccess       = Restrictionare IP
+sIPAccept       = Permite
+sIPDeny         = Nu permite
+sIPList         = Lista de IP-uri a calculatorului
+sIPListRes      = Lista de ip-uri permise sau nu
+sIPNote         = Apasati pe un ip si va fi copiat in clipboard.
+sKick           = Va rog selectati un utilizator
+sLangue         = Limba
+sLink           = Link virtual
+sList           = Lista utilizatorilor
+sLog            = Salveaza loguri automat.
+sMain           = Principal
+sMake           = Creaza
+sMaxUser1       = Nr. de conexiuni maxime
+sMaxUser2       = pentru acest utilizator :
+sMaxUserIP1     = Nr. de conexiuni maxime in acelasi timp
+sMaxUserIP2     = utilizatori per IP :
+sMaxSpeed       = Viteza download maxima (in K/S)
+sMnuFTP         = FTP
+sModify         = Modifica
+sNameLnk        = Numele linkului in director.
+sNew            = Nou
+sNewUser        = Utilizator nou
+sNewVer         = Versiune noua
+sNHome          = Ce este directorul principal ?
+sNLogin         = Care este noua logare ?
+sNoFile         = Fara fisier
+sNoHelp         = Ajutorul nu este pregatit.
+sNoNewVer       = Nu exista versiune noua
+sNoPort         = Port deja folosit. Alegeti altul.
+sNoRep          = Trebuie sa alegeti un director pentru a pune drepturi asupra lui.
+sNoSelChemin    = Va rog sa alegeti directorul
+sNoTLim         = 0 = Fara limita de timp
+sNoTrans        = Nemiscat
+sNoTStart       = Server nepornit.
+sNoULim         = 0 = Fara limita de utilizatori
+sNoUser         = Fara utilizatori
+sNPass          = Care este parola?
+sOnlineHelp     = Ajutor online
+sPass           = Parola
+sPasteIP        = Lasati Ip-ul din clipboard
+sPathAlreadInc  = Calea pe care incercati sa adaugati exista deja
+sPort           = Setari FTP
+sQuit           = Ie&sire
+sRbBuild        = Construit in
+sRbNone         = Nimic
+sRemove         = Sterge
+sRenDir         = Redenumeste directoarele
+sRenFile        = Redenumeste fisierele si directoarele
+sRenUser        = Redenumeste utilizator
+sRepDel         = %S : Director sters : %S
+sRepNow         = %S : Director curent : %s
+sRestart        = Pentru a aplica aceasta modificare, trebuie sa restartati serverul.
+sRetrFail       = %S : Descarcare nereusita %S
+sRetrOK         = %S : Fisier descarcat : %S
+sRetrRes        = %S : Descarcare, continua : %S la: %S bytes
+sRetrStart      = %S : Descarcare pornita la %S
+sRFile          = %S : Redenumire fisier : %s
+sRUser          = Redenumeste %S cu :
+sRun            = Porneste serverul ftp la pornirea sistemului.
+sSave           = Salveaza
+sSessDown       = Sesiune Descarcare:
+sSessUp         = Sesiune Urcare pe server:
+sSerStart       = Server pornit
+sSerStop        = Server oprit
+sServer         = &Server
+sSetup          = Setari
+sSetupFTP       = Setari FTP
+sSetupUser      = Setari utilizator
+sShowCommand    = Arata toate comenzile utilizatorilor in fereasta principala.
+sShowHelp       = Pentru ajutor vizitati http://www.typsoft.com
+sShutDown       = Sunteti sigur ca vreti sa opriti Serverul FTP TYPSoft?
+sSrvShutDown    = Oprirea serverului
+sStart          = &Porneste
+sStop           = &Opreste
+sStorFail       = %S : Urcare pe server nereusita %S
+sStorOK         = %s : Urcare pe server a unui fiser : %S
+sStorStart      = %S : Porneste urcarea pe server a %S
+sStorRes        = %S : Urcare pe server continuare pentru : %S la : %S bytes
+sSubDir         = Include subdirectoare
+sSysTray        = System-tray
+sTempRest       = Timp ramas:
+sTimeOutDisc    = Timp maxim conectare:
+sTimeoutLimit   = Timp maxim: (Min) [Maxim: 600 min]
+sTooManyUser    = Prea multi utilizator conectati cu numele acesta de utilizator : %S [%S]
+sTotalDownload  = Descarcare totala :
+sTotalUpload    = Urcare pe server totala :
+sTransfert      = Timp transfer :
+sTray           = Porneste jos langa ceas.
+sUMain          = Informatii utilizatori
+sUP             = Urcare pe server
+sUser           = Utilizatori
+sUsername       = Nume de utilizator
+sUSetup         = Setari utilizatori
+sVersion        = Versiunea serverul FTP %s
+sVersion2       = Scris de Marc Bergeron, tradus de Alexandru Marcau
+sVirtual        = Afisare directoare virtuale
+sVirtual2       = ("/C:/Directory/" = "/")
+sWeb            = Pagina internet :
+
+Status          = Stare:
+
+sCount          = Numarare
+sCredit         = Cine l-a facut?
+
+sCount1         = Numara fisierele pe sesiune
+sCount2         = Numara bitii pe sesiune
+sCount3         = Numara fisierele din toate sesiunile
+sCount4         = Numara bitii din toate sesiunile
+
+sfrmColor       = Definirea culorilor
+sSepTag         = Separator
+sTextTag        = Text
+sIDTag          = ID utilizator
+sClientTag      = Nume de utilizator
+sIPTag          = IP
+sDateTag        = Ora eveniment
+sTimeTag        = Alta ora
+sMiscTag        = Text divers
+sFileTag        = Fisier sau director
+sBackTag        = Text fundal
+
+sSound          = Sunet avertizare
+sSndConnect     = Cand un utilizator se conecteaza
+sSndDisconnect  = Cand un utilizator se deconecteaza
+sSndDownStart   = Cand o descarcare porneste
+sSndDownEnd     = Cand o descarcare se opreste
+sSndUploadStart = Cand o urcare pe server porneste
+sSndUploadEnd   = Cand o urcare pe server se opreste
